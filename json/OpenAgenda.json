@@ -1,0 +1,3399 @@
+{
+	"total": 16,
+	"events": [
+		{
+			"longDescription": {
+				"fr": "Rafraîchissez votre été\n-----------------------\n\nNos partenaires de l'été - Water Sports 13 (Martigues, Les Tamaris) et Base Nature Nautique - BNN (Carry-le-Rouet) comment une saison haute en couleurs et vous proposent des activités nautiques à prix réduit !\n\nRéservez votre activité sur le site web de l'Office de Tourisme de Martigues et bénéficiez d'un tarif préférentiel.\n\n### Plutôt évasion ou sensation ?\n\nFaites votre choix ! A la découverte des calanques de la Côte Bleue depuis la mer en kayak ou en paddle, prenez en pleins les yeux et profiter pleinement de ce patrimoine naturel exceptionnel ! Le petit plus à Carry-le-Rouet : Un passage par le Parc Marin de la Côte Bleue, zone marine protégée.\n\nEn jet-ski, en bouée tractée ou en wakeboard, laissez vous porter (ou tirer !) et relevez le challenge ! Faites face aux vagues et tentez de tenir le plus longtemps en équilibre. Sensations garanties !\n\n### Informations pratiques\n\n\\- Réservez votre activité et bénéficiez d'un tarif préférentiel, recevez un voucher non daté à utiliser sur la saison en cours, prenez rendez-vous auprès du prestataire avec une date et un horaire au choix. Valide une seule fois.\n\n• Water Sports 13 - Chemin des Paluds, Port des Tamaris, La Couronne 13500 Martigues\n\\- Location de Kayak une personne pour 1h\n\\- Location de Kayak en duo pour 1h\n\\- Bouée tractée 10 min\n\\- Location de jet-ski 30 min\n\n• BNN - Quai du Professeur Émile Vayssière, 13620 Carry-le-Rouet\n\\- Location de Paddle géant, 1h pour max 8 pers.\n\\- Location de Paddle géant, 1h pour max 4 pers.\n\\- Location de Kayak Biplace 1h\n\\- Tour de WakeBoard 15 min\n\\- Tour de bouée tractée 10 min\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"activités nautiques",
+					"eau",
+					"nautisme",
+					"côte bleue"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٨ يونيو - ١٨ سبتمبر",
+				"de": "18 Juni - 18 September",
+				"en": "18 June - 18 September",
+				"fr": "18 juin - 18 septembre",
+				"es": "18 junio - 18 septiembre"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues . BNN",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Location de jet-ski en duo, de kayak en solo ou à deux, tour de bouée tractée, wakeboard ou paddle géant,.... Vous allez adorer votre été à Martigues !"
+			},
+			"thematique": [
+				12
+			],
+			"title": {
+				"fr": "Les activités nautiques à Martigues et ses alentours"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-06-22T12:34:06.000Z",
+			"uid": 95635584,
+			"public": [
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-06-18T09:30:00+02:00",
+					"end": "2022-06-18T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-19T09:30:00+02:00",
+					"end": "2022-06-19T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-20T09:30:00+02:00",
+					"end": "2022-06-20T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-21T09:30:00+02:00",
+					"end": "2022-06-21T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-22T09:30:00+02:00",
+					"end": "2022-06-22T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-23T09:30:00+02:00",
+					"end": "2022-06-23T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-24T09:30:00+02:00",
+					"end": "2022-06-24T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-25T09:30:00+02:00",
+					"end": "2022-06-25T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-26T09:30:00+02:00",
+					"end": "2022-06-26T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-27T09:30:00+02:00",
+					"end": "2022-06-27T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-28T09:30:00+02:00",
+					"end": "2022-06-28T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-29T09:30:00+02:00",
+					"end": "2022-06-29T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-06-30T09:30:00+02:00",
+					"end": "2022-06-30T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-01T09:30:00+02:00",
+					"end": "2022-07-01T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-02T09:30:00+02:00",
+					"end": "2022-07-02T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-03T09:30:00+02:00",
+					"end": "2022-07-03T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-04T09:30:00+02:00",
+					"end": "2022-07-04T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-05T09:30:00+02:00",
+					"end": "2022-07-05T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-06T09:30:00+02:00",
+					"end": "2022-07-06T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-07T09:30:00+02:00",
+					"end": "2022-07-07T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-08T09:30:00+02:00",
+					"end": "2022-07-08T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-09T09:30:00+02:00",
+					"end": "2022-07-09T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-10T09:30:00+02:00",
+					"end": "2022-07-10T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-11T09:30:00+02:00",
+					"end": "2022-07-11T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-12T09:30:00+02:00",
+					"end": "2022-07-12T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-13T09:30:00+02:00",
+					"end": "2022-07-13T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-14T09:30:00+02:00",
+					"end": "2022-07-14T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-15T09:30:00+02:00",
+					"end": "2022-07-15T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-16T09:30:00+02:00",
+					"end": "2022-07-16T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-17T09:30:00+02:00",
+					"end": "2022-07-17T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-18T09:30:00+02:00",
+					"end": "2022-07-18T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-19T09:30:00+02:00",
+					"end": "2022-07-19T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-20T09:30:00+02:00",
+					"end": "2022-07-20T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-21T09:30:00+02:00",
+					"end": "2022-07-21T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-22T09:30:00+02:00",
+					"end": "2022-07-22T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-23T09:30:00+02:00",
+					"end": "2022-07-23T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-24T09:30:00+02:00",
+					"end": "2022-07-24T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-25T09:30:00+02:00",
+					"end": "2022-07-25T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-26T09:30:00+02:00",
+					"end": "2022-07-26T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-27T09:30:00+02:00",
+					"end": "2022-07-27T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-28T09:30:00+02:00",
+					"end": "2022-07-28T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-29T09:30:00+02:00",
+					"end": "2022-07-29T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-30T09:30:00+02:00",
+					"end": "2022-07-30T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-31T09:30:00+02:00",
+					"end": "2022-07-31T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-01T09:30:00+02:00",
+					"end": "2022-08-01T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-02T09:30:00+02:00",
+					"end": "2022-08-02T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-03T09:30:00+02:00",
+					"end": "2022-08-03T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-04T09:30:00+02:00",
+					"end": "2022-08-04T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-05T09:30:00+02:00",
+					"end": "2022-08-05T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-06T09:30:00+02:00",
+					"end": "2022-08-06T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-07T09:30:00+02:00",
+					"end": "2022-08-07T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-08T09:30:00+02:00",
+					"end": "2022-08-08T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-09T09:30:00+02:00",
+					"end": "2022-08-09T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-10T09:30:00+02:00",
+					"end": "2022-08-10T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-11T09:30:00+02:00",
+					"end": "2022-08-11T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-12T09:30:00+02:00",
+					"end": "2022-08-12T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-13T09:30:00+02:00",
+					"end": "2022-08-13T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-14T09:30:00+02:00",
+					"end": "2022-08-14T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-15T09:30:00+02:00",
+					"end": "2022-08-15T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-16T09:30:00+02:00",
+					"end": "2022-08-16T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-17T09:30:00+02:00",
+					"end": "2022-08-17T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-18T09:30:00+02:00",
+					"end": "2022-08-18T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-19T09:30:00+02:00",
+					"end": "2022-08-19T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-20T09:30:00+02:00",
+					"end": "2022-08-20T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-21T09:30:00+02:00",
+					"end": "2022-08-21T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-22T09:30:00+02:00",
+					"end": "2022-08-22T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-23T09:30:00+02:00",
+					"end": "2022-08-23T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-24T09:30:00+02:00",
+					"end": "2022-08-24T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-25T09:30:00+02:00",
+					"end": "2022-08-25T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-26T09:30:00+02:00",
+					"end": "2022-08-26T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-27T09:30:00+02:00",
+					"end": "2022-08-27T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-28T09:30:00+02:00",
+					"end": "2022-08-28T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-29T09:30:00+02:00",
+					"end": "2022-08-29T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-30T09:30:00+02:00",
+					"end": "2022-08-30T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-31T09:30:00+02:00",
+					"end": "2022-08-31T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-01T09:30:00+02:00",
+					"end": "2022-09-01T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-02T09:30:00+02:00",
+					"end": "2022-09-02T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-03T09:30:00+02:00",
+					"end": "2022-09-03T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-04T09:30:00+02:00",
+					"end": "2022-09-04T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-05T09:30:00+02:00",
+					"end": "2022-09-05T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-06T09:30:00+02:00",
+					"end": "2022-09-06T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-07T09:30:00+02:00",
+					"end": "2022-09-07T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-08T09:30:00+02:00",
+					"end": "2022-09-08T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-09T09:30:00+02:00",
+					"end": "2022-09-09T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-10T09:30:00+02:00",
+					"end": "2022-09-10T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-11T09:30:00+02:00",
+					"end": "2022-09-11T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-12T09:30:00+02:00",
+					"end": "2022-09-12T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-13T09:30:00+02:00",
+					"end": "2022-09-13T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-14T09:30:00+02:00",
+					"end": "2022-09-14T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-15T09:30:00+02:00",
+					"end": "2022-09-15T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-16T09:30:00+02:00",
+					"end": "2022-09-16T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-17T09:30:00+02:00",
+					"end": "2022-09-17T18:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-18T09:30:00+02:00",
+					"end": "2022-09-18T18:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "les-activites-nautiques-a-martigues-et-ses-alentours",
+			"updatedAt": "2022-07-13T13:41:16.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "5ba1068b87924edf9965f6b9811613f1.base.image.jpg?_ts=1656060541035",
+				"size": {
+					"width": 700,
+					"height": 466
+				},
+				"variants": [
+					{
+						"filename": "5ba1068b87924edf9965f6b9811613f1.full.image.jpg?_ts=1656060541035",
+						"size": {
+							"width": 700,
+							"height": 466
+						},
+						"type": "full"
+					},
+					{
+						"filename": "5ba1068b87924edf9965f6b9811613f1.thumb.image.jpg?_ts=1656060541035",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				43
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/activites-nautiques.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405346,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 49696254,
+				"createdAt": "2022-04-20T07:55:15.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "office-de-tourisme-de-martigues_2610689",
+				"email": null,
+				"longitude": 5.047693,
+				"updatedAt": "2022-05-17T16:05:30.000Z",
+				"image": null,
+				"website": null,
+				"address": "Rond-point de l'Hôtel de Ville 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjQ5Njk2MjU0LCJuYW1lIjoiT2ZmaWNlIGRlIHRvdXJpc21lIGRlIE1hcnRpZ3VlcyJ9",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Office de tourisme de Martigues",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "A partir de 14€ par personne"
+			},
+			"age": {
+				"min": 7,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-09-18T09:30:00+02:00",
+				"end": "2022-09-18T18:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-21T09:30:00+02:00",
+				"end": "2022-07-21T18:30:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une balade en bateau au gré des courants\n----------------------------------------\n\n### Embarquez à bord\n\nPrenez place à bord de l'un de nos bateaux et préparez-vous à une balade des plus insolite ! Un bateau limité à une quarantaine de places pour profiter d'une visite au calme. Vous serez surpris par le contraste entre le bruit qui émane de la ville et le calme qui vogue sur nos canaux.\n\n### Martigues sous un angle inédit\n\nApprochez les lieux les plus emblématiques de notre belle destination : Le Miroir aux Oiseaux (site classé), la Pointe San Crist, le Pont levant,.... Du canal Galiffet au canal Baussengue, l'histoire de Martigues n'aura plus de secret pour vous ! Il se peut même que vous aperceviez l'un des derniers Calen de France.... mais nous vous en disons pas plus.\n\n### Laissez-vous séduire par le charme de la Venise Provençale\n\nUne visite commentée par le capitaine du bateau, natif de Martigues. Laissez-vous séduire par le charme de nos ports, les vieilles barques de pêche, les façades de nos maisons colorées,.... Vous allez être conquis !\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "٢٢ يونيو - ٣٠ أغسطس",
+				"de": "22 Juni - 30 August",
+				"en": "22 June - 30 August",
+				"fr": "22 juin - 30 août",
+				"es": "22 junio - 30 agosto"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / VictoriaG",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une balade en bateau sur les canaux de Martigues pour une visite commentée insolite de la plus belle des façons !"
+			},
+			"thematique": [
+				2,
+				4
+			],
+			"title": {
+				"fr": "Balade sur les canaux de Martigues"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-03-29T12:17:42.000Z",
+			"uid": 97800994,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-06-22T15:00:00+02:00",
+					"end": "2022-06-22T15:45:00+02:00"
+				},
+				{
+					"begin": "2022-06-26T15:00:00+02:00",
+					"end": "2022-06-26T15:45:00+02:00"
+				},
+				{
+					"begin": "2022-06-29T15:00:00+02:00",
+					"end": "2022-06-29T15:45:00+02:00"
+				},
+				{
+					"begin": "2022-07-12T10:00:00+02:00",
+					"end": "2022-07-12T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-07-14T16:30:00+02:00",
+					"end": "2022-07-14T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-07-19T10:00:00+02:00",
+					"end": "2022-07-19T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-07-21T16:30:00+02:00",
+					"end": "2022-07-21T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-07-26T10:00:00+02:00",
+					"end": "2022-07-26T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-07-28T16:30:00+02:00",
+					"end": "2022-07-28T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-02T10:00:00+02:00",
+					"end": "2022-08-02T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-08-04T16:30:00+02:00",
+					"end": "2022-08-04T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-09T10:00:00+02:00",
+					"end": "2022-08-09T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-08-11T16:30:00+02:00",
+					"end": "2022-08-11T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-16T10:00:00+02:00",
+					"end": "2022-08-16T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-08-18T16:30:00+02:00",
+					"end": "2022-08-18T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-23T10:00:00+02:00",
+					"end": "2022-08-23T10:45:00+02:00"
+				},
+				{
+					"begin": "2022-08-25T16:30:00+02:00",
+					"end": "2022-08-25T17:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-30T10:00:00+02:00",
+					"end": "2022-08-30T10:45:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "balade-sur-les-canaux-de-martigues",
+			"updatedAt": "2022-06-21T13:04:43.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "70e002b2bf5d437f961c89bd5f07acdb.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "70e002b2bf5d437f961c89bd5f07acdb.full.image.jpg",
+						"size": {
+							"width": 4624,
+							"height": 3468
+						},
+						"type": "full"
+					},
+					{
+						"filename": "70e002b2bf5d437f961c89bd5f07acdb.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-balades-en-bateaux/balade-sur-les-canaux-de-martigues.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405561,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 17183644,
+				"createdAt": "2022-03-29T12:13:08.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "quai-des-navettes_9296372",
+				"email": null,
+				"longitude": 5.049774,
+				"updatedAt": "2022-05-17T16:06:01.000Z",
+				"image": null,
+				"website": null,
+				"address": "Avenue Louis Sammut 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": 65630513,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjE3MTgzNjQ0LCJuYW1lIjoiUXVhaSBkZXMgbmF2ZXR0ZXMifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Quai des navettes",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Adulte : 7€. Enfant de 4 à 11 ans : 4.50€. Gratuit -4 ans. Sur inscription à l'Office de Tourisme de Martigues."
+			},
+			"age": {
+				"min": 4,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-30T10:00:00+02:00",
+				"end": "2022-08-30T10:45:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-21T16:30:00+02:00",
+				"end": "2022-07-21T17:15:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une lecture de paysage auprès de l'étang de Berre\n-------------------------------------------------\n\n### Au coeur du Grand Parc de Figuerolles\n\nAccompagnez votre guide sur les rives de l'étang de Berre pour une balade au coeur de la nature. L'étang de Berre offre une biodiversité insoupçonnée, vous allez être surpris !\n\n### Éveillez vos sens\n\nObservez la faune et la flore, touchez la roche des falaises calcaires, goûtez aux fruits du cade, écoutez la sterne naine.... Tous vos sens seront sollicités lors de cette balade exceptionnelle.\n\n### Le petit plus\n\nUne dégustation de sirop à base de plantes des garrigues et de boules d'énergie sera proposée en fin de balade.\n\nEn partenariat avec Reise Trip Tours.\n\nInformations pratiques\n----------------------\n\nDifficulté de circuit : facile (dénivelé important).\nPrévoir des chaussures confortables, chapeau, crème solaire et bouteille d'eau.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"lecture",
+					"étang de Berre",
+					"randonnée",
+					"nature"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١ يوليو - ٣٠ سبتمبر",
+				"de": "1 Juli - 30 September",
+				"en": "1 July - 30 September",
+				"fr": "1 juillet - 30 septembre",
+				"es": "1 julio - 30 septiembre"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "©OtMartigues / VictoriaG",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une balade, lecture de paysage, sur les rives de l'étang de Berre au coeur du Grand Parc de Figuerolles. La plus grande lagune d'eau saumâtre d'Europe a tant à offrir !"
+			},
+			"thematique": [
+				2
+			],
+			"title": {
+				"fr": "Rando-découverte de l'Étang de Berre"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-04-20T07:32:40.000Z",
+			"uid": 53596802,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-01T09:00:00+02:00",
+					"end": "2022-07-01T11:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-22T09:00:00+02:00",
+					"end": "2022-07-22T11:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-10T09:00:00+02:00",
+					"end": "2022-08-10T11:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-31T09:00:00+02:00",
+					"end": "2022-08-31T11:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-16T10:00:00+02:00",
+					"end": "2022-09-16T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-30T10:00:00+02:00",
+					"end": "2022-09-30T12:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "rando-decouverte-de-letang-de-berre",
+			"updatedAt": "2022-06-21T13:27:52.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "db7c32746f144ce48737cfeaf9516a54.base.image.jpg?_ts=1655818073832",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "db7c32746f144ce48737cfeaf9516a54.full.image.jpg?_ts=1655818073832",
+						"size": {
+							"width": 4032,
+							"height": 3024
+						},
+						"type": "full"
+					},
+					{
+						"filename": "db7c32746f144ce48737cfeaf9516a54.thumb.image.jpg?_ts=1655818073832",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees-les-balades-nature/rando-decouverte-de-l-etang-de-berre.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.430423,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 2735289,
+				"createdAt": "2022-03-16T15:11:50.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 1,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "grand-parc-de-figuerolles-paul-lombard_1325613",
+				"email": null,
+				"longitude": 5.052921,
+				"updatedAt": "2022-05-17T16:06:29.000Z",
+				"image": null,
+				"website": null,
+				"address": "Chemin de Figuerolles, 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": 81664765,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjI3MzUyODksIm5hbWUiOiJHcmFuZCBwYXJjIGRlIEZpZ3Vlcm9sbGVzIOKAkyBQYXVsIExvbWJhcmQifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Grand parc de Figuerolles – Paul Lombard",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 12 euros. Dès 10 ans."
+			},
+			"age": {
+				"min": 10,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-09-30T10:00:00+02:00",
+				"end": "2022-09-30T12:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-22T09:00:00+02:00",
+				"end": "2022-07-22T11:30:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Profitez d'un coucher de soleil depuis les canaux\n-------------------------------------------------\n\nLes longues soirées d'été s'offrent à vous. Quoi de mieux que de se laisser bercer par le courant des canaux tout en admirant le ciel ? Percevez les couleurs arc-en-ciel du ciel lors de cette douce balade et revenez au port de nuit.\n\n### Une balade commentée\n\nVous naviguerez sur les canaux de Martigues, La Venise Provençale à la découverte de son charme et son histoire. Approchez les lieux insolites de Martigues depuis les canaux et écoutez les ancdotes du capitaine.\n\n### Observez le soleil embrasser l'horizon\n\nDes nuances de jaune, rose, bleu et violet dans le ciel. Tous les sunset lovers seront émerveillés par ce spectacle ! Le bateau fera halte et se positionnera face aux ponts de Martigues dans un alignement parfait avec l'horizon.\n\nInformations pratiques\n----------------------\n\nPrévoir chapeau et crème solaire. N'oubliez pas votre appareil photo !\nTous les enfants de 0 à 17 ans devront être accompagnés d'un adulte.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"bateau",
+					"coucher de soleil",
+					"nature",
+					"canaux",
+					"été"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١١ يوليو - ٢٩ أغسطس, في الاثنين",
+				"de": "11 Juli - 29 August, am montag",
+				"en": "11 July - 29 August, on Mondays",
+				"fr": "11 juillet - 29 août, les lundis",
+				"es": "11 julio - 29 agosto, los Lunes"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une balade en bateau au coucher de soleil depuis Martigues pour profiter des longues soirées d'été"
+			},
+			"thematique": [
+				2,
+				4
+			],
+			"title": {
+				"fr": "Balade en bateau au coucher du soleil à Martigues"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-05-10T13:44:00.000Z",
+			"uid": 8592813,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-11T20:30:00+02:00",
+					"end": "2022-07-11T22:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-18T20:30:00+02:00",
+					"end": "2022-07-18T22:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-25T20:20:00+02:00",
+					"end": "2022-07-25T21:50:00+02:00"
+				},
+				{
+					"begin": "2022-08-01T20:15:00+02:00",
+					"end": "2022-08-01T21:45:00+02:00"
+				},
+				{
+					"begin": "2022-08-08T20:05:00+02:00",
+					"end": "2022-08-08T21:25:00+02:00"
+				},
+				{
+					"begin": "2022-08-15T19:55:00+02:00",
+					"end": "2022-08-15T21:25:00+02:00"
+				},
+				{
+					"begin": "2022-08-22T19:45:00+02:00",
+					"end": "2022-08-22T21:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-29T19:35:00+02:00",
+					"end": "2022-08-29T21:05:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "balade-en-bateau-au-coucher-du-soleil-a-martigues",
+			"updatedAt": "2022-06-21T13:20:25.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "1508466c2ceb404fa77dd5349f93c897.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "1508466c2ceb404fa77dd5349f93c897.full.image.jpg",
+						"size": {
+							"width": 3072,
+							"height": 2304
+						},
+						"type": "full"
+					},
+					{
+						"filename": "1508466c2ceb404fa77dd5349f93c897.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-balades-en-bateaux-experiences-inedites/balade-en-bateau-au-coucher-du-soleil-a-martigues.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405561,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 74187967,
+				"createdAt": "2022-04-05T11:49:36.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "quai-dhonneur-de-lhotel-de-ville_195074",
+				"email": null,
+				"longitude": 5.049774,
+				"updatedAt": "2022-06-13T07:55:46.000Z",
+				"image": null,
+				"website": null,
+				"address": "Avenue Louis Sammut 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjc0MTg3OTY3LCJuYW1lIjoiUXVhaSBkJ2hvbm5ldXIgZGUgbCdIw7R0ZWwgZGUgVmlsbGUifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Quai d'honneur de l'Hôtel de Ville",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 12€. Gratuit -4 ans."
+			},
+			"age": {
+				"min": 4,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-29T19:35:00+02:00",
+				"end": "2022-08-29T21:05:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-25T20:20:00+02:00",
+				"end": "2022-07-25T21:50:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Balade en bateau sur l'étang de Berre\n-------------------------------------\n\n### Embarquez à bord de La Cisampo\n\nEn route pour découvrir les richesses de l'étang de Berre ! Une occasion unique - le 24 avril - de découvrir ce patrimoine naturel exceptionnel.\n\n### Une expérience à vivre\n\nDepuis Martigues, direction Miramas / Saint-Chamas à la découverte du plus grand étang salé d'Europe. Avec une vue sur les lagunes, les villages perchés, les collines calcaires, les petits ports de pêche et les plages sauvages ... vous allez adorer découvrir ce côté pittoresque de l'étang.\n\n### L'étang de Berre, je dis OUI !\n\nEt en plus, l'étang de Berre est candidat au patrimoine mondial de l'UNESCO. Un lieu naturel d'une richesse remarquable dû à sa biodiversité.\n\nInformations pratiques\n----------------------\n\n### A prévoir :\n\n• Chapeau\n• Crème solaire\n• Bouteille d'eau (vente possible à bord)\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"bateau",
+					"tourisme",
+					"étang de Berre",
+					"patrimoine"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٢ يوليو - ٢٣ أغسطس, في الثلاثاء",
+				"de": "12 Juli - 23 August, am dienstag",
+				"en": "12 July - 23 August, on Tuesdays",
+				"fr": "12 juillet - 23 août, les mardis",
+				"es": "12 julio - 23 agosto, los Martes"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / VictoriaG",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Partez à la découverte du plus grand étang salé d'Europe et ses paysages pittoresques : l'étang de Berre !"
+			},
+			"thematique": [
+				2
+			],
+			"title": {
+				"fr": "L'étang de Berre en bateau"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-04-05T12:00:04.000Z",
+			"uid": 97594271,
+			"public": [
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-12T09:30:00+02:00",
+					"end": "2022-07-12T12:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-26T09:30:00+02:00",
+					"end": "2022-07-26T12:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-09T09:30:00+02:00",
+					"end": "2022-08-09T12:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-23T09:30:00+02:00",
+					"end": "2022-08-23T12:00:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "letang-de-berre-en-bateau",
+			"updatedAt": "2022-07-13T13:43:56.215Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "4fe950210c6f474993ddab3a48f0793e.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "4fe950210c6f474993ddab3a48f0793e.full.image.jpg",
+						"size": {
+							"width": 3264,
+							"height": 2448
+						},
+						"type": "full"
+					},
+					{
+						"filename": "4fe950210c6f474993ddab3a48f0793e.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-balades-en-bateaux-les-balades-nature/l-etang-de-berre-en-bateau.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405728,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 85259991,
+				"createdAt": "2022-05-10T14:30:15.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "la-pointe-sant-crist_5357505",
+				"email": null,
+				"longitude": 5.054818,
+				"updatedAt": "2022-05-17T16:05:02.000Z",
+				"image": null,
+				"website": null,
+				"address": "Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjg1MjU5OTkxLCJuYW1lIjoiTGEgcG9pbnRlIFNhbnQgQ3Jpc3QifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "La pointe Sant Crist",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Adulte : 20€. Enfant (4-11 ans) : 10€. Gratuit -4 ans."
+			},
+			"age": {
+				"min": 4,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-23T09:30:00+02:00",
+				"end": "2022-08-23T12:00:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-26T09:30:00+02:00",
+				"end": "2022-07-26T12:00:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une journée à la fermette de la croix d'estrine\n-----------------------------------------------\n\n### Visite de la ferme\n\nNous vous donnons rendez-vous dès 10h30 au coeur de la fermette pour une visite par Bernard, propriétaire des lieux. Vous serez accueillis par les chèvres et cabris en liberté qui ne tarderont pas à venir à votre rencontre pour des caresses. Découvrez également les infrastructures ainsi que le potager mis en place au sein de la propriété. Bernard vit en auto-suffisance.  \nDans la matinée, assistez à la traite du jour. L'occasion de découvrir le métier d'éleveur comme vous ne l'avez encore jamais vu !\n\n### Une balade à travers les collines de Saint-Julien-les-Martigues\n\nZachary, berger de la ferme encadrera le troupeau de chèvres et cabris pour une balade dans les collines voisines. Accompagnez-les et marchez à leur rythme sur une distance de 2km. Amoureux de son métier, il sera ravi d'échanger avec les visiteurs sur sa passion du quotidien. Au son du tintement des cloches, les chèvres et cabris se mêlent au groupe lors d'allées et venues. Vous allez adorer voir les cabris suivrent leur mère au coeur de la nature.\n\n### Une pause déjeuner bien méritée\n\nAu coeur de la campagne, il sera temps de faire une pause et profiter du panier repas qui vous a été remis au départ de la balade. Un panier 100% local conmposé de produits issus de la ferme. Adapté en fonction des saisons et de la récolte du jour, il sera varié et gourmand. Pain de paysan-boulanger, fruits et légumes du potager, rillettes ou terrines de cabris, fromages de chèvres, sirop fait maison.... Des produits frais et de qualité dont vous garderez un goût inoubliable.\n\n### Prolonger le plaisir chez soi\n\nAu retour à la ferme en fin d'après-midi, rendez-vous à la boutique pour s'offrir des produits de qualité. L'occasion assi de faire découvrir les produits à ceux qui n'ont pas pu être présents. Brousse du Rove (AOP), fromage frais ou affinés, yaourt aux fruits, au cocolat ou crème aux oeufs, miels, gâteaux... Il y en aura pour tous les goûts.\n\nInformations pratiques\n----------------------\n\n### A savoir avant la visite\n\n• Le contenu du panier varie en fonction des saisons. Son contenu n'est pas adapté à un régime végétarien. Il peut contenir des aliments allergènes.  \n• Parcours facile mais caillouteux. Une montée glissante à fort dénivelé se trouve sur le parcours (qu'il faudra monter et descendre).  \n• Prévoir des baskets, bouteille d'eau, chapeau et crème solaire (plateau à découvert).\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"ferme",
+					"partage",
+					"producteur",
+					"brousse"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٣ يوليو - ٣١ أغسطس, في الأربعاء",
+				"de": "13 Juli - 31 August, am mittwoch",
+				"en": "13 July - 31 August, on Wednesdays",
+				"fr": "13 juillet - 31 août, les mercredis",
+				"es": "13 julio - 31 agosto, los Miercoles"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / KarimK",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une journée avec un éleveur caprin au coeur de sa ferme paysanne à Saint-Julien-les-Martigues. Au programme : visite de la ferme, balade dans les collines avec le troupeau et pique-nique champêtre."
+			},
+			"thematique": [
+				13
+			],
+			"title": {
+				"fr": "Berger d'un jour"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-03-23T08:44:15.000Z",
+			"uid": 8262789,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-13T09:00:00+02:00",
+					"end": "2022-07-13T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-20T09:00:00+02:00",
+					"end": "2022-07-20T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-27T09:00:00+02:00",
+					"end": "2022-07-27T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-03T09:00:00+02:00",
+					"end": "2022-08-03T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-10T09:00:00+02:00",
+					"end": "2022-08-10T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-17T09:00:00+02:00",
+					"end": "2022-08-17T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-24T09:00:00+02:00",
+					"end": "2022-08-24T13:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-31T09:00:00+02:00",
+					"end": "2022-08-31T13:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "berger-dun-jour",
+			"updatedAt": "2022-06-21T13:19:01.337Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "bc4626a834824c929f0e6ae5d731636b.base.image.jpg?_ts=1655817544275",
+				"size": {
+					"width": 700,
+					"height": 627
+				},
+				"variants": [
+					{
+						"filename": "bc4626a834824c929f0e6ae5d731636b.full.image.jpg?_ts=1655817544275",
+						"size": {
+							"width": 3874,
+							"height": 3472
+						},
+						"type": "full"
+					},
+					{
+						"filename": "bc4626a834824c929f0e6ae5d731636b.thumb.image.jpg?_ts=1655817544275",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees-experiences-inedites-les-balades-nature/berger-d-un-jour.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.374176,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 91887525,
+				"createdAt": "2022-03-23T08:41:44.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": "Saint-Julien",
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "fermette-de-la-croix-destrine_9931149",
+				"email": null,
+				"longitude": 5.065973,
+				"updatedAt": "2022-05-17T16:06:07.000Z",
+				"image": null,
+				"website": null,
+				"address": "32, Route de Sausset 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": 65630513,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjkxODg3NTI1LCJuYW1lIjoiRmVybWV0dGUgZGUgbGEgQ3JvaXggZCdFc3RyaW5lIn0=",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": "Saint-Julien",
+				"name": "Fermette de la Croix d'Estrine",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "18€ adulte et 14€ enfant (6-12 ans). Interdit aux moins de 6 ans."
+			},
+			"age": {
+				"min": 6,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-31T09:00:00+02:00",
+				"end": "2022-08-31T13:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-27T09:00:00+02:00",
+				"end": "2022-07-27T13:30:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Balade en bateau de la Côte Bleue\n---------------------------------\n\n### Embarquez pour une belle balade\n\nMer, soleil et brise légère qui caresse le visage ... bienvenue en mer méditerranée ! Dès le 20 avril, nous vous donnons l'opportunité d'embarquer à nos côtés pour une balade le long des calanques de la Côte Bleue.\nAu départ de Martigues, traversez le chenal de Caronte pour rejoindre la mer méditerranée et découvrir un paysage exceptionnel que vous ne pourrez voir que depuis la mer !\n\n### Vous en prendrez pleins les yeux\n\nVillages pittoresques, petits ports de pêche, plages de sable fin, criques et falaises rocheuses, barques et bateaux amarrés.... Des paysages exceptionnels que nous offre le littoral méditerranéen. Laissez-vous porter par les commentaires du capitaine et longez le littoral à la découverte de Carro, Sausset-les-Pins, Carry-le-Rouet, Ensuès-la-Redonne et Méjéan.\n\nInformations pratiques\n----------------------\n\n### A emporter avec soi :\n\n• Chapeau\n• Crème solaire\n• Bouteille d'eau (vente possible à bord)\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"bateau",
+					"mer méditerranée",
+					"calanques",
+					"tourisme"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٣ يوليو - ٢٤ أغسطس, في الأربعاء",
+				"de": "13 Juli - 24 August, am mittwoch",
+				"en": "13 July - 24 August, on Wednesdays",
+				"fr": "13 juillet - 24 août, les mercredis",
+				"es": "13 julio - 24 agosto, los Miercoles"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / VictoriaG",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Profitez d'une balade en bateau le long des calanques de la Côte Bleue au départ de Martigues."
+			},
+			"thematique": [
+				2
+			],
+			"title": {
+				"fr": "La Côte Bleue en bateau"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-04-05T11:51:00.000Z",
+			"uid": 59907248,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-13T09:30:00+02:00",
+					"end": "2022-07-13T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-20T09:30:00+02:00",
+					"end": "2022-07-20T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-27T09:30:00+02:00",
+					"end": "2022-07-27T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-03T09:30:00+02:00",
+					"end": "2022-08-03T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-10T09:30:00+02:00",
+					"end": "2022-08-10T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-17T09:30:00+02:00",
+					"end": "2022-08-17T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-24T09:30:00+02:00",
+					"end": "2022-08-24T12:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "la-cote-bleue-en-bateau",
+			"updatedAt": "2022-07-13T13:44:38.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "d59fccf9103f4917b331288611ebe95d.base.image.jpg?_ts=1655817713320",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "d59fccf9103f4917b331288611ebe95d.full.image.jpg?_ts=1655817713320",
+						"size": {
+							"width": 4032,
+							"height": 3024
+						},
+						"type": "full"
+					},
+					{
+						"filename": "d59fccf9103f4917b331288611ebe95d.thumb.image.jpg?_ts=1655817713320",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-balades-en-bateaux-les-balades-nature/la-cote-bleue-en-bateau.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405728,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 85259991,
+				"createdAt": "2022-05-10T14:30:15.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "la-pointe-sant-crist_5357505",
+				"email": null,
+				"longitude": 5.054818,
+				"updatedAt": "2022-05-17T16:05:02.000Z",
+				"image": null,
+				"website": null,
+				"address": "Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjg1MjU5OTkxLCJuYW1lIjoiTGEgcG9pbnRlIFNhbnQgQ3Jpc3QifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "La pointe Sant Crist",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Adulte : 20€. Enfant (4-11 ans) : 10€. Gratuit -4 ans."
+			},
+			"age": {
+				"min": 4,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-24T09:30:00+02:00",
+				"end": "2022-08-24T12:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-27T09:30:00+02:00",
+				"end": "2022-07-27T12:30:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "A la découverte des fonds marins de la Côte Bleue\n-------------------------------------------------\n\nLa Côte Bleue abrite des espèces emblématiques dont certaines sont en déclin. Mérou brun, posidonie, corb, Grande nacre, Rorqual commun, Corial rouge... Ces espèces ont été placés en zone protégée à Carry-le-Rouet.\n\nLa zone protégée de Carry-le-Rouet\n----------------------------------\n\nC'est celle que nous vous proposons de découvrir lors de cette aventure marine. Il s'agit d'une aire de 85 ha qui borde le littoral entre le port de Carry et l'anse du Rouet. La réserve est délimitée par des bouées, ce qui en limite son accès.\n\nPlongez au coeur du Parc Marin de la Côte Bleue\n-----------------------------------------------\n\nChaque été, nous vous offrons le privilège d'accéder à cette zone protégée pour une plongée libre ou en apnée avec masque et tuba. Vous pourrez ainsi y observer des poissons en plus grand nombre, de taille plus importante et à l'attitude moins farouche qu'en extérieur. Ne manquez pas cette chance !\n\nInformations pratiques\n----------------------\n\n### Les inscriptions\n\nLes inscriptions se font auprès de l'Office de Tourisme de Martigues uniquement sur le créneau du jeudi matin en juillet et août. L'Office de Tourisme de Carry-le-Rouet propose d'autres créneaux en saison estivale.\nNous ouvrons les inscriptions le 15 juin pour les visites de juillet et le 15 juillet pour les visites d'août.\n\n### Les conditions d'accès\n\nL'activité est accessible dès 8 ans. Les enfants de 8 à 12 ans devront être accompagnés dans l'eau. Les enfants de 12 à 18 ans doivent présenter une autorisation parentale obligatoire.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"Parc Marin",
+					"Côte Bleue",
+					"fonds marins",
+					"nage en surface",
+					"poissons",
+					"tourisme"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "٧ يوليو - ٢٥ أغسطس, في الخميس",
+				"de": "7 Juli - 25 August, am donnerstag",
+				"en": "7 July - 25 August, on Thursdays",
+				"fr": "7 juillet - 25 août, les jeudis",
+				"es": "7 julio - 25 agosto, los Jueves"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / CDeltour",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "La Côte Bleue a tant à offrir ! L'Office de Tourisme de Martigues vous donne l'opportunité unique de vivre une expérience inédite au coeur du Parc Marin de la Côte Bleue."
+			},
+			"thematique": [
+				12
+			],
+			"title": {
+				"fr": "Snorkeling au coeur du Parc Marin"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-05-09T15:26:17.000Z",
+			"uid": 43674560,
+			"public": [
+				17,
+				18,
+				24
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-07T09:30:00+02:00",
+					"end": "2022-07-07T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-14T09:30:00+02:00",
+					"end": "2022-07-14T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-21T09:30:00+02:00",
+					"end": "2022-07-21T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-28T09:30:00+02:00",
+					"end": "2022-07-28T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-04T09:30:00+02:00",
+					"end": "2022-08-04T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-11T09:30:00+02:00",
+					"end": "2022-08-11T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-18T09:30:00+02:00",
+					"end": "2022-08-18T10:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-25T09:30:00+02:00",
+					"end": "2022-08-25T10:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "snorkeling-au-coeur-du-parc-marin",
+			"updatedAt": "2022-06-23T09:23:57.715Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "2527e718ca584654b57f108b4a9d9836.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 465
+				},
+				"variants": [
+					{
+						"filename": "2527e718ca584654b57f108b4a9d9836.full.image.jpg",
+						"size": {
+							"width": 4288,
+							"height": 2848
+						},
+						"type": "full"
+					},
+					{
+						"filename": "2527e718ca584654b57f108b4a9d9836.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-experiences-inedites-les-balades-nature/snorkeling-au-coeur-du-parc-marin.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Carry-le-Rouet",
+				"timezone": "Europe/Paris",
+				"postalCode": "13620",
+				"latitude": 43.330746,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 54868270,
+				"createdAt": "2022-05-09T15:23:36.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "plage-du-cap-rousset_6628195",
+				"email": null,
+				"longitude": 5.168186,
+				"updatedAt": "2022-05-17T16:05:06.000Z",
+				"image": null,
+				"website": null,
+				"address": "2 All. de Barqueroute, 13620 Carry-le-Rouet",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjU0ODY4MjcwLCJuYW1lIjoiUGxhZ2UgZHUgQ2FwIFJvdXNzZXQifQ==",
+				"tags": null,
+				"insee": "13021",
+				"phone": null,
+				"district": null,
+				"name": "Plage du Cap Rousset",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Gratuit sur inscription"
+			},
+			"age": {
+				"min": 8,
+				"max": 99
+			},
+			"status": 5,
+			"lastTiming": {
+				"begin": "2022-08-25T09:30:00+02:00",
+				"end": "2022-08-25T10:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-28T09:30:00+02:00",
+				"end": "2022-07-28T10:30:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une balade en centre-ville de Martigues\n---------------------------------------\n\n### Le thème : l'eau douce\n\nArpentez les ruelles de Martigues en bordure des canaux à la découverte des vestiges du passé. De fontaines en lavoirs et de puits en aqueducs, approchez les lieux les plus emblématiques de Martigues et découvrez leur histoire.\n\n### Une balade commentée de 8km\n\nLe centre-ville de Martigues est jalonné de fontaines ayant chacune sa propre histoire. Sur 8km, suivez votre guide et restez à l'écoute tout en observant les merveilleux paysages qui s'offrent à vous.\n\nEn partenariat avec Randonnée Ski Découverte (RSD).\n\nInformations pratiques\n----------------------\n\nPrévoir chaussures confortables, chapeau, crème solaire et bouteille d'eau.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"balade",
+					"histoire",
+					"eau douce",
+					"centre-ville"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٥ يوليو - ٢٤ أغسطس",
+				"de": "15 Juli - 24 August",
+				"en": "15 July - 24 August",
+				"fr": "15 juillet - 24 août",
+				"es": "15 julio - 24 agosto"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues - KarimK",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une balade de 8km en centre-ville de Martigues à la recherche des vestiges du passé sur le thème de l'eau douce."
+			},
+			"thematique": [
+				4,
+				2
+			],
+			"title": {
+				"fr": "Rand'eau douce"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-04-20T07:53:40.000Z",
+			"uid": 12429827,
+			"public": [
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-15T09:00:00+02:00",
+					"end": "2022-07-15T12:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-29T09:00:00+02:00",
+					"end": "2022-07-29T12:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-12T09:00:00+02:00",
+					"end": "2022-08-12T12:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-24T09:00:00+02:00",
+					"end": "2022-08-24T12:00:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "randeau-douce",
+			"updatedAt": "2022-06-23T09:23:36.965Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "e0e7a7be2be1404da6e0bb8047934f3e.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "e0e7a7be2be1404da6e0bb8047934f3e.full.image.jpg",
+						"size": {
+							"width": 4355,
+							"height": 3269
+						},
+						"type": "full"
+					},
+					{
+						"filename": "e0e7a7be2be1404da6e0bb8047934f3e.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees/rand-eau-douce-1.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405346,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 49696254,
+				"createdAt": "2022-04-20T07:55:15.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "office-de-tourisme-de-martigues_2610689",
+				"email": null,
+				"longitude": 5.047693,
+				"updatedAt": "2022-05-17T16:05:30.000Z",
+				"image": null,
+				"website": null,
+				"address": "Rond-point de l'Hôtel de Ville 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjQ5Njk2MjU0LCJuYW1lIjoiT2ZmaWNlIGRlIHRvdXJpc21lIGRlIE1hcnRpZ3VlcyJ9",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Office de tourisme de Martigues",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 5 euros."
+			},
+			"age": {
+				"min": null,
+				"max": null
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-24T09:00:00+02:00",
+				"end": "2022-08-24T12:00:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-29T09:00:00+02:00",
+				"end": "2022-07-29T12:00:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une visite de Martigues entre mythes et légendes\n------------------------------------------------\n\n### Entre mythes et légendes\n\nAu départ du Théâtre de Verdure (Ferrières) de Martigues, suivez votre guide et soyez à l'écoute ! Partez à la conquête des mythes et légendes ayant fait vibrer la Provence. Ce parcours urbain sera ponctué d'arrêts sur les lieux emblématiques de Martigues où le visiteur sera mis à contribution pour échanger, discuter et vivre des moments forts.\n\n### Une exploration panoramique\n\nUne longue histoire attestée de faits archéologiques, et fantasmés par les mythes et légendes qui se nourrissent de cette même histoire. Ou est-ce l'inverse ? Suivez votre guide et explorez les vues panoramiques de la ville. Entre hier et aujourd'hui, votre guide vous contera l'histoire de Martigues.\n\n### Médiation culturelle et participation des visiteurs\n\nLa visite alternera des moments où le visiteur sera en écoute, certains où il échangera avec le guide, et d'autres où il laissera libre court à son imaginaire. Prenez le temps, imaginez et écoutez. Une expérience sensorielle grâce à la reconnexion des sens.\n\nInformation pratiques\n---------------------\n\nPensez à emporter :  \n• Un chapeau ou casquette.  \n• Une bouteille d'eau.  \n• De la crème solaire.  \n• Une couverture, un coussin, un paréo pour vous asseoir lors des moments contés.\n\nSur inscription auprès de l'Office de Tourisme de Martigues.  \nEn partenariat avec Provence Buissonnière.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"visite guidée",
+					"Provence",
+					"mythes",
+					"légendes",
+					"histoires"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١١ يوليو - ٢٤ أغسطس",
+				"de": "11 Juli - 24 August",
+				"en": "11 July - 24 August",
+				"fr": "11 juillet - 24 août",
+				"es": "11 julio - 24 agosto"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / FBuschardt",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une visite guidée en centre-ville de Martigues à la découverte des mythes et légendes qui peuplent notre belle Provence."
+			},
+			"thematique": [
+				2
+			],
+			"title": {
+				"fr": "Il était une fois .... Martigues"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-03-29T12:02:00.000Z",
+			"uid": 16042021,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-11T09:30:00+02:00",
+					"end": "2022-07-11T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-29T09:30:00+02:00",
+					"end": "2022-07-29T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-08T09:30:00+02:00",
+					"end": "2022-08-08T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-24T09:30:00+02:00",
+					"end": "2022-08-24T11:00:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "il-etait-une-fois-martigues",
+			"updatedAt": "2022-06-21T13:02:49.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "696367cd498f43bf98d52a5a5a6d4e19.base.image.jpg?_ts=1655816571135",
+				"size": {
+					"width": 700,
+					"height": 469
+				},
+				"variants": [
+					{
+						"filename": "696367cd498f43bf98d52a5a5a6d4e19.full.image.jpg?_ts=1655816571135",
+						"size": {
+							"width": 3872,
+							"height": 2592
+						},
+						"type": "full"
+					},
+					{
+						"filename": "696367cd498f43bf98d52a5a5a6d4e19.thumb.image.jpg?_ts=1655816571135",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees/il-etait-une-fois-martigues.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.407238,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 81005465,
+				"createdAt": "2022-03-29T12:00:35.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 1,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "theatre-de-verdure_7410688",
+				"email": null,
+				"longitude": 5.056761,
+				"updatedAt": "2022-05-17T16:06:03.000Z",
+				"image": null,
+				"website": null,
+				"address": "Place des Aires 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": 65630513,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjgxMDA1NDY1LCJuYW1lIjoiVGjDqcOidHJlIGRlIFZlcmR1cmUifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Théâtre de Verdure",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Adulte : 12€. Enfant de 5 à 11 ans : 8€. Dès 5 ans. Sur inscription à l'Office de Tourisme de Martigues"
+			},
+			"age": {
+				"min": 5,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-24T09:30:00+02:00",
+				"end": "2022-08-24T11:00:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-29T09:30:00+02:00",
+				"end": "2022-07-29T11:00:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une visite à travers les siècles\n--------------------------------\n\n### Embarquez à bord, direction le Fort de Bouc\n\nDepuis l'Office de Tourisme de Martigues, embarquez à bord du San Crist pour un trajet commentée de 30 minutes. L'occasion de découvrir l'un des derniers Calen de France, l'ancienne savonnerie Verminck, le pont tournant ferroviaire, le port de Port-de-Bouc...\n\n### Débarquez au Fort de Bouc\n\nSuivez votre guide à la découverte de l'histoire de ce lieu emblématique. A la fois ouvrage défensif et phare, le Fort de Bouc a une position stratégique pour le commerce maritime. A l'embouchure du chenal de Caronte, il a autrefois joué un rôle important dans le contrôle de la région.\n\nInformations pratiques\n----------------------\n\nDurée de la visite : 3h (transport compris).\nPrévoir chapeau, crème solaire, bouteille d'eau et appareil photo.\nAccès interdit aux enfants de moins de 10 ans.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"balade",
+					"bateau",
+					"histoire",
+					"monument historique"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٦ يوليو - ٢٧ أغسطس, في السبت",
+				"de": "16 Juli - 27 August, am sonnabend",
+				"en": "16 July - 27 August, on Saturdays",
+				"fr": "16 juillet - 27 août, les samedis",
+				"es": "16 julio - 27 agosto, los Sabado"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues - CharlotteB",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une visite commentée du Fort de Bouc, ce monument historique du Moyen-Age. Son accès se fait exclusivement en bateau (inclus)."
+			},
+			"thematique": [
+				2
+			],
+			"title": {
+				"fr": "Visite commentée du Fort de Bouc"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-04-20T08:02:53.000Z",
+			"uid": 23667936,
+			"public": [
+				17,
+				24
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-16T14:30:00+02:00",
+					"end": "2022-07-16T17:30:00+02:00"
+				},
+				{
+					"begin": "2022-07-30T09:30:00+02:00",
+					"end": "2022-07-30T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-13T09:30:00+02:00",
+					"end": "2022-08-13T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-08-27T09:30:00+02:00",
+					"end": "2022-08-27T12:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "visite-commentee-du-fort-de-bouc-9663245",
+			"updatedAt": "2022-06-21T13:17:50.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "38686a51060f4b4daa6dadff3a7ef573.base.image.jpg?_ts=1655817471988",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "38686a51060f4b4daa6dadff3a7ef573.full.image.jpg?_ts=1655817471988",
+						"size": {
+							"width": 5184,
+							"height": 3888
+						},
+						"type": "full"
+					},
+					{
+						"filename": "38686a51060f4b4daa6dadff3a7ef573.thumb.image.jpg?_ts=1655817471988",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-balades-en-bateaux-les-visites-accompagnees/visite-commentee-du-fort-de-bouc.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405346,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 49696254,
+				"createdAt": "2022-04-20T07:55:15.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "office-de-tourisme-de-martigues_2610689",
+				"email": null,
+				"longitude": 5.047693,
+				"updatedAt": "2022-05-17T16:05:30.000Z",
+				"image": null,
+				"website": null,
+				"address": "Rond-point de l'Hôtel de Ville 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjQ5Njk2MjU0LCJuYW1lIjoiT2ZmaWNlIGRlIHRvdXJpc21lIGRlIE1hcnRpZ3VlcyJ9",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Office de tourisme de Martigues",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Adulte : 15 euros. Enfant (10-11 ans) : 12 euros. Dès 10 ans."
+			},
+			"age": {
+				"min": 10,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-27T09:30:00+02:00",
+				"end": "2022-08-27T12:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-07-30T09:30:00+02:00",
+				"end": "2022-07-30T12:30:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une visite insolite du centre-ville de Martigues\n------------------------------------------------\n\n### Suivez votre guide\n\nDécouvrez la ville de Martigues sous un oeil nouveau ! Mettez-vous dans la peau de l'un des artistes ayant été inspirés par \"La Venise Provençale\" (Dufy, Ziem,....) et partez à la découverte de ces lieux qu'ils aimaient tant.\nAu programme : créativité et inspiration !\n\n### Un âme d'artiste\n\nPar les couleurs colorées des façades, les reflets dans l'eau, la lumière qui se dégage,.... nul doute que vous serez charmé par Martigues.\nAvec un kit de création sous le bras (fourni), arrêtez-vous dans les lieux les plus emblématiques et laissez libre court à votre imaginaire.\nUn dessin, un coloriage, une esquisse, une phrase ou un vers .... autant de forme d'art pour coucher l'émotion de l'instant présent. Imprégnez-vous du lieu, retranscrivez-le sur le papier et gardez-en un souvenir unique !\n\n### Un moment créatif\n\nObservez, écoutez, touchez, sentiez, imaginez.... chacun de vos sens sera sollicité. Pour prolonger l'instant, une visite au musée Ziem est prévu. L'occasion de s'inspirer des artistes actuellement exposés. Apprenez-en plus sur les techniques utilisés, le choix des couleurs et la mise en avant des formes sur chaque dessin ou tableau.\n\nInformations pratiques\n----------------------\n\n### Inclus dans le tarif :\n\n• La visite guidée en centre-ville de Martigues au départ du quartier de l'Ile.\n• Le Kit de création : Un carnet de croquis A5 + 1 crayon gris.\n• La visite au musée Ziem.\n\n### Pour votre confort :\n\n• Prévoir un chapeau / casquette\n• Des chaussures confortables\n• Une crème solaire\n• Une bouteille d'eau\n\nRéservation auprès de l'Office de Tourisme de Martigues.\nEn partenariat avec Provence Buissonnière.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"dessin",
+					"musée",
+					"balade croquée"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٩ يوليو - ١٧ أغسطس",
+				"de": "19 Juli - 17 August",
+				"en": "19 July - 17 August",
+				"fr": "19 juillet - 17 août",
+				"es": "19 julio - 17 agosto"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / KarimK",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Une visite guidée du centre-ville de Martigues destiné à tous les artistes en herbe. Accédez aux sites de Martigues, ne faites qu'un avec le lieu et laissez libre court à votre imagination."
+			},
+			"thematique": [
+				2,
+				4
+			],
+			"title": {
+				"fr": "Martigues, carnet de voyage"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-03-29T11:47:37.000Z",
+			"uid": 45759605,
+			"public": [
+				25,
+				20,
+				18
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-19T09:30:00+02:00",
+					"end": "2022-07-19T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-01T09:30:00+02:00",
+					"end": "2022-08-01T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-17T09:30:00+02:00",
+					"end": "2022-08-17T11:00:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "martigues-carnet-de-voyage",
+			"updatedAt": "2022-06-21T13:11:49.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "cfdb204f0ce14914abf6c65aefd29b0c.base.image.jpg?_ts=1655817111199",
+				"size": {
+					"width": 700,
+					"height": 495
+				},
+				"variants": [
+					{
+						"filename": "cfdb204f0ce14914abf6c65aefd29b0c.full.image.jpg?_ts=1655817111199",
+						"size": {
+							"width": 3078,
+							"height": 2176
+						},
+						"type": "full"
+					},
+					{
+						"filename": "cfdb204f0ce14914abf6c65aefd29b0c.thumb.image.jpg?_ts=1655817111199",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees-experiences-inedites/martigues-carnet-de-voyage.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.40571,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 71675672,
+				"createdAt": "2022-03-29T11:44:29.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "parking-henri-fabre_9671014",
+				"email": null,
+				"longitude": 5.057096,
+				"updatedAt": "2022-05-17T16:06:05.000Z",
+				"image": null,
+				"website": null,
+				"address": "18 Quai Kléber, 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": 65630513,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjcxNjc1NjcyLCJuYW1lIjoiUGFya2luZyBIZW5yaSBGYWJyZSJ9",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Parking Henri Fabre",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 15€. Dès 6 ans. Sur inscription auprès de l'Office de Tourisme de Martigues"
+			},
+			"age": {
+				"min": 6,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-17T09:30:00+02:00",
+				"end": "2022-08-17T11:00:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-08-01T09:30:00+02:00",
+				"end": "2022-08-01T11:00:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Visitez les décors de la série Camping Paradis\n----------------------------------------------\n\n### Faites partie des privilégiés\n\nAccédez au lieu de tournage de la série \"Camping Paradis\" dont les épisodes sont tournés à La Couronne, Martigues. Notre guide vous donne rendez-vous sous l'arche \"Camping Paradis\" pour une visite inédite !\n\n### Imaginez-vous aux côtés de Tom\n\nFlânez dans les allées du site de tournage et projetez-vous au Camping Paradis ! Débutez votre séjour à l'accueil, faites une pause au bar de la plage, faites vos courses à la supérette du camping... Tout y est ! Une visite comme si vous y étiez et vous allez être surpris !\n\n### A l'écoute des anecdotes de tournage\n\nSuivez votre guide et apprenez-en plus sur l'origine de la série, les choix faits par l'équipe de production et le parcours des personnages. Soyez à l'écoute des anecdotes et des secrets partagés par l'équipe de tournage.\n\nInformations pratiques\n----------------------\n\n### La boutique de l'Office de Tourisme de Martigues\n\nEn exclusivité européenne, repartez avec un souvenir mémorable ! Mugs, magnets, tee-shirts, serviettes en microfibre, tote bags.... Les produits souvenir \"Camping Paradis\" sont également disponibles sur [www.martigues-tourisme.com](http://www.martigues-tourisme.com)\n\n### A prévoir :\n\n• Chapeau\n• Bouteille d'eau\n• Crème solaire\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"camping paradis",
+					"cinéma",
+					"tourisme"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "٢ - ٣٠ أغسطس",
+				"de": "2 - 30 August",
+				"en": "2 - 30 August",
+				"fr": "2 - 30 août",
+				"es": "2 - 30 agosto"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / VictoriaG",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Accédez au lieu de tournage de la série télévisée \"Camping Paradis\" et suivez votre guide à la découverte d'anecdotes et de secrets de tournage."
+			},
+			"thematique": [
+				2
+			],
+			"title": {
+				"fr": "Visite des décors de la série télévisée Camping Paradis"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-03-31T14:09:24.000Z",
+			"uid": 97782529,
+			"public": [
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-08-02T09:30:00+02:00",
+					"end": "2022-08-02T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-02T10:30:00+02:00",
+					"end": "2022-08-02T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-04T09:30:00+02:00",
+					"end": "2022-08-04T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-04T10:30:00+02:00",
+					"end": "2022-08-04T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-09T09:30:00+02:00",
+					"end": "2022-08-09T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-09T10:30:00+02:00",
+					"end": "2022-08-09T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-11T09:30:00+02:00",
+					"end": "2022-08-11T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-11T10:30:00+02:00",
+					"end": "2022-08-11T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-16T09:30:00+02:00",
+					"end": "2022-08-16T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-16T10:30:00+02:00",
+					"end": "2022-08-16T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-18T09:30:00+02:00",
+					"end": "2022-08-18T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-18T10:30:00+02:00",
+					"end": "2022-08-18T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-23T09:30:00+02:00",
+					"end": "2022-08-23T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-23T10:30:00+02:00",
+					"end": "2022-08-23T11:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-25T09:30:00+02:00",
+					"end": "2022-08-25T10:15:00+02:00"
+				},
+				{
+					"begin": "2022-08-30T09:30:00+02:00",
+					"end": "2022-08-30T10:15:00+02:00"
+				}
+			],
+			"links": [
+				{
+					"link": "http://www.martigues-tourisme.com"
+				}
+			],
+			"state": 2,
+			"slug": "visite-des-decors-de-la-serie-televisee-camping-paradis",
+			"updatedAt": "2022-06-21T13:23:27.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "2a129783b98b406ebc016b4c7eb84b96.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "2a129783b98b406ebc016b4c7eb84b96.full.image.jpg",
+						"size": {
+							"width": 4032,
+							"height": 3024
+						},
+						"type": "full"
+					},
+					{
+						"filename": "2a129783b98b406ebc016b4c7eb84b96.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees-experiences-inedites/visite-des-decors-de-la-serie-televisee-camping-paradis.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.329041,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 41492964,
+				"createdAt": "2022-03-31T13:43:40.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "chemin-de-la-batterie_7826078",
+				"email": null,
+				"longitude": 5.055955,
+				"updatedAt": "2022-05-17T16:05:54.000Z",
+				"image": null,
+				"website": null,
+				"address": "Chemin de la batterie 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjQxNDkyOTY0LCJuYW1lIjoiQ2hlbWluIGRlIGxhIGJhdHRlcmllIn0=",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Chemin de la batterie",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Adulte : 4€. Enfant : 3€ (6-11 ans). Gratuit -6 ans."
+			},
+			"age": {
+				"min": 6,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-30T09:30:00+02:00",
+				"end": "2022-08-30T10:15:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-08-02T09:30:00+02:00",
+				"end": "2022-08-02T10:15:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une balade au coeur des vignes de Saint-Julien-les-Martigues\n------------------------------------------------------------\n\n### Suivez votre guide\n\nJosé, viticulteur de la cave coopérative de Saint-Julien-les-Martigues vous accompagne au coeur des vignes pour vous livrer tous les secrets de récolte et parler oenologie.\n\n### Une jolie randonnée de 4 km\n\nEn route pour découvrir la \"Boucle des cépages\", une boucle balisée sur les terres de la cave vinicole. En pleine campagne, profitez de la nature qui s'offre à vous. Entre oliviers, pinèdes, pins d'Alep et céréales, partez à la conquête d'une riche biodiversité.\n\n### Pour tous les amoureux de vins\n\nEn fin de parcours, la cave de Saint-Julien-les-Martigues offrira un verre de vin ou de jus de fruits à chacun. L'occasion de découvrir les saveurs irrésistibles produites par la cave elle-même. Rouge, blanc ou rosé, vous pourrez apprécier le goût subtil des vins qui font aujourd'hui la renommée de \"La Venise Provençale\".\n\nInformations pratiques\n----------------------\n\n### A prévoir :\n\n• Chaussures de marche\n• Chapeau\n• Crème solaire\n• Bouteille d'eau\n• Appareil photo\n\n### A savoir :\n\nVisite non accessible aux poussettes.\nVisite non accessible aux personnes à modibilité réduite.\nParcours facile\n\nSur inscription à l'Office de Tourisme de Martigues.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"visite",
+					"oenologie",
+					"cave vinicole",
+					"vignes",
+					"tourisme"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "٧ يوليو - ٤ أغسطس, في الخميس",
+				"de": "7 Juli - 4 August, am donnerstag",
+				"en": "7 July - 4 August, on Thursdays",
+				"fr": "7 juillet - 4 août, les jeudis",
+				"es": "7 julio - 4 agosto, los Jueves"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / VictoriaG",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Au coeur des vignes de Saint-Julien-les-Martigues, suivez votre guide pour une balade de 4km sur le thème de l'œnologie."
+			},
+			"thematique": [
+				13
+			],
+			"title": {
+				"fr": "Rando dans les sentiers vignerons de Martigues"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-03-31T13:35:52.000Z",
+			"uid": 48827753,
+			"public": [
+				17,
+				24
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-07T09:00:00+02:00",
+					"end": "2022-07-07T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-21T09:00:00+02:00",
+					"end": "2022-07-21T11:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-04T09:00:00+02:00",
+					"end": "2022-08-04T11:00:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "rando-dans-les-sentiers-vignerons-de-martigues",
+			"updatedAt": "2022-06-21T13:15:22.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "f23a5931bc854af285fcd78bf6223263.base.image.jpg?_ts=1655817322952",
+				"size": {
+					"width": 700,
+					"height": 525
+				},
+				"variants": [
+					{
+						"filename": "f23a5931bc854af285fcd78bf6223263.full.image.jpg?_ts=1655817322952",
+						"size": {
+							"width": 3264,
+							"height": 2448
+						},
+						"type": "full"
+					},
+					{
+						"filename": "f23a5931bc854af285fcd78bf6223263.thumb.image.jpg?_ts=1655817322952",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees-experiences-inedites-les-balades-nature/rando-dans-les-sentiers-vignerons-de-martigues.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.367757,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 44441019,
+				"createdAt": "2022-03-31T13:28:25.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": "Saint-Julien",
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "cooperative-vinicole-la-venise-provencale_5082908",
+				"email": null,
+				"longitude": 5.087437,
+				"updatedAt": "2022-05-17T16:05:56.000Z",
+				"image": null,
+				"website": null,
+				"address": "233 Route de Sausset, 13500 Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjQ0NDQxMDE5LCJuYW1lIjoiQ29vcMOpcmF0aXZlIFZpbmljb2xlIGxhIFZlbmlzZSBQcm92ZW7Dp2FsZSJ9",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": "Saint-Julien",
+				"name": "Coopérative Vinicole la Venise Provençale",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 5€. Gratuit pour les -5 ans. Sur inscription à l'Office de Tourisme de Martigues."
+			},
+			"age": {
+				"min": 5,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-08-04T09:00:00+02:00",
+				"end": "2022-08-04T11:00:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-08-04T09:00:00+02:00",
+				"end": "2022-08-04T11:00:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Une balade pour soi\n-------------------\n\n### Empruntez le sentier du littoral de la Côte Bleue\n\nDepuis la plage de Carro, direction le phare de Cap Couronne via le sentier du littoral. Suivez votre guide à la découverte des vestiges présents sur le parcours et des bienfaits de la côte méditérranéenne.\n\n### Les vestiges du passé\n\nApprochez les carrières de pierre \"Baou Tailla\", traversez les plages de sable fin, montez jusqu'aux falaises abruptes des carrières antiques.... Et vous saurez tout du patrimoine de la Côte Bleue.\n\n### Profitez de l'instant présent\n\nSigne du voyage et de la navigation, humez l'air marin et ses embruns. Ressentez le sable sous vos pieds, observez les plantes sur le parcours... Vous saurez tout de leurs bienfaits.\n\n### Le petit plus\n\nUne dégustation de sirop à base de plantes des garrigues et de boules d'énergie sera proposée en fin de balade.\n\nInformations pratiques\n----------------------\n\nRandonnée d'environ 4km (aller-retour). Niveau facile.\nPrévoir chaussures confortables, chapeau, crème solaire, bouteille d'eau.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"balade",
+					"randonnée",
+					"bien-être",
+					"nature",
+					"histoire"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "١٧ يوليو - ٢١ سبتمبر",
+				"de": "17 Juli - 21 September",
+				"en": "17 July - 21 September",
+				"fr": "17 juillet - 21 septembre",
+				"es": "17 julio - 21 septiembre"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues - MyriamF",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Depuis Carro, arpentez le bord de mer à la recherche d'un bien-être personnel. Le sentier du littoral offre une biodiversité exceptionnelle qui ravira vos sens."
+			},
+			"thematique": [
+				12
+			],
+			"title": {
+				"fr": "Rando bien-être"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-04-20T07:42:16.000Z",
+			"uid": 67311085,
+			"public": [
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-17T17:30:00+02:00",
+					"end": "2022-07-17T20:00:00+02:00"
+				},
+				{
+					"begin": "2022-07-20T17:30:00+02:00",
+					"end": "2022-07-20T20:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-07T17:30:00+02:00",
+					"end": "2022-08-07T20:00:00+02:00"
+				},
+				{
+					"begin": "2022-08-28T17:30:00+02:00",
+					"end": "2022-08-28T20:00:00+02:00"
+				},
+				{
+					"begin": "2022-09-07T10:00:00+02:00",
+					"end": "2022-09-07T12:30:00+02:00"
+				},
+				{
+					"begin": "2022-09-21T10:00:00+02:00",
+					"end": "2022-09-21T12:30:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "rando-bien-etre",
+			"updatedAt": "2022-06-21T13:31:12.000Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "b558886d071c467f92075c9b64238fd3.base.image.jpg?_ts=1655818273214",
+				"size": {
+					"width": 700,
+					"height": 394
+				},
+				"variants": [
+					{
+						"filename": "b558886d071c467f92075c9b64238fd3.full.image.jpg?_ts=1655818273214",
+						"size": {
+							"width": 4000,
+							"height": 2250
+						},
+						"type": "full"
+					},
+					{
+						"filename": "b558886d071c467f92075c9b64238fd3.thumb.image.jpg?_ts=1655818273214",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				57
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-visites-accompagnees-les-balades-nature/rando-bien-etre.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.331998,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 32891931,
+				"createdAt": "2022-04-20T07:43:38.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "plage-de-carro_1923761",
+				"email": null,
+				"longitude": 5.043407,
+				"updatedAt": "2022-05-17T16:05:32.000Z",
+				"image": null,
+				"website": null,
+				"address": "Esplanade Rabeton 13500 martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjMyODkxOTMxLCJuYW1lIjoiUGxhZ2UgZGUgY2Fycm8ifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "Plage de carro",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 12 euros. Dès 10 ans."
+			},
+			"age": {
+				"min": 10,
+				"max": 99
+			},
+			"status": 1,
+			"lastTiming": {
+				"begin": "2022-09-21T10:00:00+02:00",
+				"end": "2022-09-21T12:30:00+02:00"
+			},
+			"nextTiming": {
+				"begin": "2022-08-07T17:30:00+02:00",
+				"end": "2022-08-07T20:00:00+02:00"
+			}
+		},
+		{
+			"longDescription": {
+				"fr": "Embarquez à nos côtés\n---------------------\n\nEmbarquez sur un bateau et faites partie de ceux qui admireront le feu d'artifice annuel au milieu de l'étang de Berre. Une expérience unique !\n\n### Des soirées à ne pas manquer\n\nAssistez aux feux d'artifice de la fête nationale - le 14 juillet. Venez vibrer lors de cette soirée exceptionnelle attendue par tous les martégaux.\n\nInformations pratiques\n----------------------\n\nLe feux d'artifice est maintenu jusqu'à ce que la commission de sécurité se réunisse le soir même. Vous serez tenus informés de la bonne réalisation de la balade à la dernière minute.\n\nLocalisation\n------------"
+			},
+			"country": {
+				"de": "Frankreich (Metropolitan)",
+				"code": "FR",
+				"oc": "França (Metropolitana)",
+				"en": "France (Metropolitan)",
+				"it": "Francia (continente)",
+				"fr": "France (Métropole)",
+				"es": "Francia (Metropolitana)"
+			},
+			"featured": false,
+			"private": 0,
+			"keywords": {
+				"fr": [
+					"feux d'artifice",
+					"fête nationale",
+					"bateau",
+					"soirée"
+				]
+			},
+			"accessibility": {
+				"ii": false,
+				"hi": false,
+				"vi": false,
+				"pi": false,
+				"mi": false
+			},
+			"dateRange": {
+				"ar": "الخميس ١٤ يوليو, 22:00",
+				"de": "Donnerstag 14 Juli, 22:00",
+				"en": "Thursday 14 July, 22:00",
+				"fr": "Jeudi 14 juillet, 22h00",
+				"es": "Jueves 14 julio, 22:00"
+			},
+			"timezone": "Europe/Paris",
+			"imageCredits": "Otmartigues / GXuereb",
+			"originAgenda": {
+				"uid": 65630513,
+				"image": "https://cibul.s3.amazonaws.com/agenda65630513.jpg?__ts=1646322095283",
+				"title": "Martigues Tourisme"
+			},
+			"description": {
+				"fr": "Rêvez grand et assistez à un feu d'artifice depuis un bateau."
+			},
+			"thematique": [
+				4
+			],
+			"title": {
+				"fr": "Feu d'artifice depuis un bateau à Martigues"
+			},
+			"onlineAccessLink": null,
+			"createdAt": "2022-05-10T13:51:36.000Z",
+			"uid": 47037592,
+			"public": [
+				25,
+				20
+			],
+			"draft": 0,
+			"timings": [
+				{
+					"begin": "2022-07-14T22:00:00+02:00",
+					"end": "2022-07-14T23:15:00+02:00"
+				}
+			],
+			"links": [],
+			"state": 2,
+			"slug": "feu-dartifice-depuis-un-bateau-a-martigues",
+			"updatedAt": "2022-07-13T13:43:32.014Z",
+			"addMethod": "contribution",
+			"image": {
+				"filename": "b841e5fc4c9f40239d5383976121c033.base.image.jpg",
+				"size": {
+					"width": 700,
+					"height": 465
+				},
+				"variants": [
+					{
+						"filename": "b841e5fc4c9f40239d5383976121c033.full.image.jpg",
+						"size": {
+							"width": 4288,
+							"height": 2848
+						},
+						"type": "full"
+					},
+					{
+						"filename": "b841e5fc4c9f40239d5383976121c033.thumb.image.jpg",
+						"size": {
+							"width": 200,
+							"height": 200
+						},
+						"type": "thumbnail"
+					}
+				],
+				"base": "https://cibul.s3.amazonaws.com/"
+			},
+			"attendanceMode": 1,
+			"nature": [
+				43
+			],
+			"sourceAgendas": [],
+			"fadas": 46,
+			"creatorUid": 80714054,
+			"registration": [
+				{
+					"type": "link",
+					"value": "https://www.martigues-tourisme.com/excursions-et-visites-les-balades-en-bateaux-experiences-inedites/feu-d-artifice-depuis-un-bateau-a-martigues.html"
+				}
+			],
+			"location": {
+				"disqualifiedDuplicates": [],
+				"access": {},
+				"city": "Martigues",
+				"timezone": "Europe/Paris",
+				"postalCode": "13500",
+				"latitude": 43.405728,
+				"imageCredits": null,
+				"description": {},
+				"setUid": 11806390,
+				"uid": 85259991,
+				"createdAt": "2022-05-10T14:30:15.000Z",
+				"duplicateCandidates": [],
+				"countryCode": "FR",
+				"adminLevel5": null,
+				"links": [],
+				"state": 0,
+				"extId": null,
+				"department": "Bouches-du-Rhône",
+				"slug": "la-pointe-sant-crist_5357505",
+				"email": null,
+				"longitude": 5.054818,
+				"updatedAt": "2022-05-17T16:05:02.000Z",
+				"image": null,
+				"website": null,
+				"address": "Martigues",
+				"adminLevel3": null,
+				"agendaUid": null,
+				"adminLevel1": "Provence-Alpes-Côte d'Azur",
+				"adminLevel2": "Bouches-du-Rhône",
+				"mergedIn": null,
+				"_agg": "eyJ1aWQiOjg1MjU5OTkxLCJuYW1lIjoiTGEgcG9pbnRlIFNhbnQgQ3Jpc3QifQ==",
+				"tags": null,
+				"insee": "13056",
+				"phone": null,
+				"district": null,
+				"name": "La pointe Sant Crist",
+				"region": "Provence-Alpes-Côte d'Azur"
+			},
+			"conditions": {
+				"fr": "Tarif unique : 10€. Gratuit -4 ans."
+			},
+			"age": {
+				"min": 4,
+				"max": 99
+			},
+			"status": 5,
+			"lastTiming": {
+				"begin": "2022-07-14T22:00:00+02:00",
+				"end": "2022-07-14T23:15:00+02:00"
+			},
+			"nextTiming": null
+		}
+	],
+	"sort": [
+		0,
+		32503680000000,
+		1657833300000,
+		47037592
+	]
+}
