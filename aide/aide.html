@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<meta content="ie=edge" http-equiv="x-ua-compatible">
+	<meta content="width=device-width,initial-scale=1,shrink-to-fit=no" name="viewport">
+	<link href="https://docs.linkpreview.net/fonts/vendor/jost/jost-v4-latin-regular.woff2" rel="preload" type="font/woff2">
+	<link href="https://docs.linkpreview.net/fonts/vendor/jost/jost-v4-latin-700.woff2" rel="preload" type="font/woff2">
+	<link href="css/aides.css" rel="stylesheet">
+	<title>PommApi - Documentation</title>
+
+</head>
+<body class="docs single">
+	<header class="navbar fixed-top navbar-expand-md navbar-light">
+		<div class="container">
+			<input class="menu-btn order-0" id="menu-btn" type="checkbox"> 
+			<a class="navbar-brand order-1 order-md-0 me-auto">Apidae-&gt;OpenAgenda</a> 
+			
+
+			
+			<ul class="navbar-nav social-nav order-3 order-md-5"></ul>
+			<div class="collapse navbar-collapse order-4 order-md-1">
+				<ul class="navbar-nav main-nav me-auto order-5 order-md-2"></ul>
+				<div class="break order-6 d-md-none"></div>
+			</div>
+		</div>
+	</header>
+	<div class="wrap container" role="document">
+		<div class="content">
+			<div class="row flex-xl-nowrap">
+				<div class="col-lg-5 col-xl-4 docs-sidebar">
+					<nav aria-label="Main navigation" class="docs-links">
+						<div class="page-links">
+							<nav id="TableOfContents">
+								<ul>
+									<li>
+										<a href="#introduction">Introduction</a>
+										<ul>
+											<li>
+												<a href="#prerequis">Prérequis</a>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<a href="#quick-start">Ressources nécessaires</a>
+										<ul>
+											<li>
+												<a href="#simple-get-request">Création d'un projet APIDAE</a>
+											</li>
+											<li>
+												<a href="#secure-post-request">Secure POST Request</a>
+											</li>
+											<li>
+												<a href="#default-json-response">Default JSON Response</a>
+											</li>
+											<li>
+												<a href="#api-endpoints">API Endpoints</a>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<a href="#query-parameters">Query parameters</a>
+										<ul>
+											<li>
+												<a href="#basics">Basics</a>
+											</li>
+											<li>
+												<a href="#default-and-additional-fields">Default and Additional Fields</a>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<a href="#responses">Responses</a>
+										<ul>
+											<li>
+												<a href="#default-response">Default Response</a>
+											</li>
+											<li>
+												<a href="#extended-response">Extended Response</a>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<a href="#errors">Errors</a>
+									</li>
+									<li>
+										<a href="#rate-limits">Rate limits</a>
+									</li>
+									<li>
+										<a href="#parser">Parser</a>
+									</li>
+									<li>
+										<a href="#image-processing-and-validation">Image Processing and Validation</a>
+									</li>
+									<li>
+										<a href="#same-origin-policy">Same-origin policy</a>
+									</li>
+									<li>
+										<a href="#caching">Caching</a>
+									</li>
+									<li>
+										<a href="#per-domain-limits">Per Domain Limits</a>
+									</li>
+									<li>
+										<a href="#examples">Examples</a>
+										<ul>
+											<li>
+												<a href="#codepen">Codepen</a>
+											</li>
+											<li>
+												<a href="#javascript">Javascript</a>
+											</li>
+											<li>
+												<a href="#php-python-ruby-curl">PHP, Python, Ruby, cURL</a>
+											</li>
+											<li>
+												<a href="#jquery">JQuery</a>
+											</li>
+											<li>
+												<a href="#full-frontend-example">Full Frontend Example</a>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</nav>
+						</div>
+					</nav>
+				</div>
+				<main class="docs-content col-lg-12 col-xl-12">
+				
+					<h1>Avant de commencer</h1>
+					
+					<h2 id="introduction">Introduction<a aria-hidden="true" class="anchor" href="#introduction"><</a></h2>
+					<p>Vous trouverez ici toute les ressources nécessaires pour paramétrer et utilisater notre API. </p>
+					<p>Note et Méthode de développement - Notre code source peut être utilisé et amélioré par tout le monde. Il n'y a pour le moment aucun github.com qui héberge le projet.</p>
+					
+					
+					<h3 id="prerequis">Prérequis<a aria-hidden="true" class="anchor" href="#prerequis"><</a></h3>
+					
+					<p>* Avoir un editeur de texte comme <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notpad++</a>.
+					<p>* Avoir un environement web pour executer le script (le code source de l'API) - Sous windows avec WAMP Serveur (XAMP/LAMP) en version 32/64 Bits pour Windows 8/10/11.</p>
+					<p>* Avoir un compte <a href="https://base.apidae-tourisme.com/consulter/recherche-intuitive/?0" target="_blank">APIDAE</a> et un compte <a href="https://openagenda.com/martigues-tourisme/admin/events" target="_blank">OpenAgenda</a>.</p>
+				
+					
+					<h2 id="quick-start">Ressources nécessaires<a aria-hidden="true" class="anchor" href="#quick-start">< Etape 1</a></h2>
+					<h3 id="simple-get-request">Création d'un projet APIDAE<a aria-hidden="true" class="anchor" href="#simple-get-request">#</a></h3>
+					<p> Pour créer un projet numérique, cliquez sur le module Diffuser / Projets / Mes projets </p>
+					<img src="images/apidae4.jpg"/>
+					<p></p>
+					<p> Projets / Mes projets </p>
+					<img src="images/apidae5.jpg"/>
+										
+					<h3 id="secure-post-request">Secure POST Request<a aria-hidden="true" class="anchor" href="#secure-post-request">#</a></h3>
+					<p>Requests can be made using POST method as well. In the following example we are using the <strong>curl</strong> command line utility to submit query parameters in the body of the request.</p>
+						<pre>
+							<code class="language-nof">
+								curl --data "key=123456&amp;q=https://www.google.com" https://api.linkpreview.net
+							</code>
+					</pre>
+					
+					<h3 id="default-json-response">Default JSON Response<a aria-hidden="true" class="anchor" href="#default-json-response">#</a></h3>
+										<pre>
+						<code class="language-nof">{
+						   "title":"Google",
+						   "description":"Search webpages, images, videos and more.",
+						   "image":"https://www.google.com/images/logo.png",
+						   "url":"https://www.google.com"
+						}
+						</code>
+					</pre>
+					<h3 id="api-endpoints">API Endpoints<a aria-hidden="true" class="anchor" href="#api-endpoints">#</a></h3>
+					<p>We provide both HTTP and HTTPS endpoints for our service:</p>
+					<table>
+						<thead>
+							<tr>
+								<th>Endpoint</th>
+								<th style="text-align:left">GET</th>
+								<th>POST</th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><code>http://api.linkpreview.net</code></td>
+								<td style="text-align:left">Yes</td>
+								<td>Yes</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td><code>https://api.linkpreview.net</code></td>
+								<td style="text-align:left">Yes</td>
+								<td>Yes</td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+					<h2 id="query-parameters">Query parameters<a aria-hidden="true" class="anchor" href="#query-parameters">#</a></h2>
+					<h3 id="basics">Basics<a aria-hidden="true" class="anchor" href="#basics">#</a></h3>
+					<p>Our API uses <a href="https://en.wikipedia.org/wiki/Query_string">query parameters</a> since they are the simplest and the most common type of parameters. When using the GET request, they appear at the end of the request URL after the question mark (?), with name=value pairs separated by ampersands (&amp;).</p>
+					<table>
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th style="text-align:left">Description</th>
+								<th>Example</th>
+								<th style="text-align:center">Required</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><code>key</code></td>
+								<td style="text-align:left">Your API key</td>
+								<td>123456</td>
+								<td style="text-align:center">Yes</td>
+							</tr>
+							<tr>
+								<td><code>q</code></td>
+								<td style="text-align:left">URL to inspect*</td>
+								<td>https://www.google.com</td>
+								<td style="text-align:center">Yes</td>
+							</tr>
+							<tr>
+								<td><code>fields</code></td>
+								<td style="text-align:left">Comma-separated list of fields to return</td>
+								<td>image_x, icon_type, locale</td>
+								<td style="text-align:center">No</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>* Since this parameter can contain reserved characters :/?#[]@!$&amp;'()*+,;= it should be sent as percent-encoded (encodeURIComponent/urlencode).</p>
+					<h3 id="default-and-additional-fields">Default and Additional Fields<a aria-hidden="true" class="anchor" href="#default-and-additional-fields">#</a></h3>
+					<p>LinkPreview can return additional fields based on your current subscription plan. Example request - asking for three additional fields:</p>
+					<pre><code class="language-nof">http://api.linkpreview.net/?key=123456&amp;fields=image_x,icon_type,locale&amp;q=https://www.google.com
+</code></pre>
+					<table>
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th>Type</th>
+								<th>Description</th>
+								<th>Example Response</th>
+								<th>Subscription Plan</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><code>title</code></td>
+								<td>string</td>
+								<td>Website title. Returned by default.</td>
+								<td>Google</td>
+								<td>Available on all plans</td>
+							</tr>
+							<tr>
+								<td><code>description</code></td>
+								<td>string</td>
+								<td>Description summary. Returned by default.</td>
+								<td>Search webpages, images, videos and more.</td>
+								<td>Available on all plans</td>
+							</tr>
+							<tr>
+								<td><code>image</code></td>
+								<td>string</td>
+								<td>Preview image URL. Returned by default.</td>
+								<td>https://google.com/logo.png</td>
+								<td>Available on all plans</td>
+							</tr>
+							<tr>
+								<td><code>url</code></td>
+								<td>string</td>
+								<td>Destination URL. Returned by default.</td>
+								<td>https://www.google.com</td>
+								<td>Available on all plans</td>
+							</tr>
+							<tr>
+								<td><code>canonical</code></td>
+								<td>string</td>
+								<td>Canonical or “preferred” version of a web page. Defaults to blank "" if not found.</td>
+								<td>https://www.google.com/en</td>
+								<td>Basic, Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>locale</code></td>
+								<td>string</td>
+								<td>Web page’s locale formatted as language_TERRITORY. Defaults to “en_US” if not found. You can use this to detect RTL languages or to display other language-specific elements.</td>
+								<td>en_GB</td>
+								<td>Basic, Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>site_name</code></td>
+								<td>string</td>
+								<td>Short name that is used to represent the site. Defaults to top_level_domain+1.</td>
+								<td>google.com</td>
+								<td>Basic, Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>image_x</code></td>
+								<td>number</td>
+								<td>Image width in pixels. See image processing.</td>
+								<td>600</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>image_y</code></td>
+								<td>number</td>
+								<td>Image height in pixels. See image processing.</td>
+								<td>400</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>image_size</code></td>
+								<td>number</td>
+								<td>Image size in bytes. See image processing.</td>
+								<td>643252</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>image_type</code></td>
+								<td>string</td>
+								<td>Image MIME content type.</td>
+								<td>image/jpeg</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>icon</code></td>
+								<td>string</td>
+								<td>Website icon URL, also known as favicon.</td>
+								<td>https://google.com/fav.ico</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>icon_x</code></td>
+								<td>number</td>
+								<td>Website icon width in pixels.</td>
+								<td>50</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>icon_y</code></td>
+								<td>number</td>
+								<td>Website icon height in pixels.</td>
+								<td>50</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>icon_size</code></td>
+								<td>number</td>
+								<td>Website icon size in bytes.</td>
+								<td>48322</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+							<tr>
+								<td><code>icon_type</code></td>
+								<td>string</td>
+								<td>Website icon MIME content type.</td>
+								<td>image/x-icon</td>
+								<td>Pro, Enterprise</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>Unless otherwise noted, the default value for string type is an empty string <code>""</code>, and for a numeric type is zero <code>0</code>. Default values are used when the <a href="#parser">parser</a> is unable to find or extract the correct value from the requested URL.</p>
+					<h2 id="responses">Responses<a aria-hidden="true" class="anchor" href="#responses">#</a></h2>
+					<p>Successful API response will be sent with HTTP status code 200 and it will contain application/json data. You should always validate/sanitize API response before using it.</p>
+					<h3 id="default-response">Default Response<a aria-hidden="true" class="anchor" href="#default-response">#</a></h3>
+					<p>Successful HTTP response will be sent as <code>200 OK</code> and it will contain JSON data:</p>
+					<pre><code class="language-nof">{
+   "title":"Google",
+   "description":"Search webpages, images, videos and more.",
+   "image":"https://www.google.com/images/logo.png",
+   "url":"https://www.google.com"
+}
+</code></pre>
+					<h3 id="extended-response">Extended Response<a aria-hidden="true" class="anchor" href="#extended-response">#</a></h3>
+					<p>Extended API response will contain all requested additional fields. Make sure your current plan supports this:</p>
+	<pre>
+	<code class="language-nof">	
+	$keys = array( /* Les clés API permettent de lire et écrire des données sur OpenAgenda via l'API. */
+	  'public' => '3cadd4ccb8484442a87432cf0f94c93a', /* Pour OpenAgenda en lecture */
+	  'secret' => 'c071a53f48074d6c8c849fb1f0223f4e'  /* Pour OpenAgenda en mode écriture et autres*/
+	);
+
+	/*
+		Clef disponible via la page : https://openagenda.com/martigues-tourisme
+	*/
+	$agendaUid = 65630513; /* <uid:65630513> */
+	$territoireIds = array('5693912'); /* Conseil de territoire : Pays de Martigues */ 
+	$selectionIds = array('126230');
+
+
+	// 5693765 Pour la côte bleue
+	// 5693912 pour le territoire pays de Martigues
+
+	$apiDomain = "http://api.apidae-tourisme.com/api/";
+	$apiKey = 'QTfpNkyX'; 
+	$projetId = '6555'; 	/* 6556 Martigues - OpenAgenda */ 
+	$nbResult = '200';
+	$dureemax = "50";
+
+	$requete['territoireIds'] = $territoireIds;
+	$requete['selectionIds'] = $selectionIds;
+	$requete['identifiants'] = $identifiants;
+	$requete['apiKey'] = $apiKey;
+	$requete['projetId'] = $projetId;
+	$requete['dateDebut'] = date("Y-m-d");
+	// $requete['dateDebut'] = "2022-09-10";
+
+					
+	$requete['identifiants'] = $identifiants;
+	$requete["responseFields"] = array("@all");
+	$url_Apidae = $apiDomain."v002/agenda/detaille/list-objets-touristiques/";
+	$url_Apidae .= '?';
+	$url_Apidae .= 'query='.urlencode(json_encode($requete));
+	$url_OpenAgenda="https://openagenda.com/agendas/".$agendaUid."/events.v2.json?key=".$keys['public'];
+	
+	$department		= 	"Bouches-du-Rhône";
+	$timezone		=	"Europe/Paris";
+	$countryCode 	= 	"FR";
+
+</code></pre>
+					<h2 id="errors">Errors<a aria-hidden="true" class="anchor" href="#errors">#</a></h2>
+					<p>If a request cannot be completed successfully, the response from the API will contain HTTP status code 400 or higher. The response from the API may also contain one or more error elements in the response. This information can be used to determine what went wrong. Each of these elements may contain an error code, message, and (if applicable) other informative values to assist in debugging the problem.</p>
+					<table>
+						<thead>
+							<tr>
+								<th>Error Code</th>
+								<th>Description</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>400</td>
+								<td>Generic error</td>
+							</tr>
+							<tr>
+								<td>401</td>
+								<td>Cannot verify API access key</td>
+							</tr>
+							<tr>
+								<td>403</td>
+								<td>Invalid or blank API access key</td>
+							</tr>
+							<tr>
+								<td>423</td>
+								<td>
+									Forbidden by robots.txt - the requested website <a href="https://en.wikipedia.org/wiki/Robots_exclusion_standard">does not allow</a> us to access this page
+								</td>
+							</tr>
+							<tr>
+								<td>425</td>
+								<td>Invalid response status code (with the actual response code we got from the remote server)</td>
+							</tr>
+							<tr>
+								<td>426</td>
+								<td>
+									Too many requests per second on a <a href="#per-domain-limits">single domain</a>
+								</td>
+							</tr>
+							<tr>
+								<td>429</td>
+								<td>Too many requests / rate limit exceeded</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>Example Error Response (HTTP Status code 401):</p>
+					<pre><code class="language-nof">{
+   "title":"",
+   "description":"Linkpreview service denied",
+   "image":"",
+   "url":"",
+   "error":401
+}
+
+</code></pre>
+					<h2 id="rate-limits">Rate limits<a aria-hidden="true" class="anchor" href="#rate-limits">#</a></h2>
+					<p>The counters for your API key reset on a rolling basis using the sliding window algorithm. Every hit to the API counts as one request.</p>
+					<p>Example for PRO Plan: If you made 500 requests at 10:15AM and 500 requests at 10:25AM, your API key would become temporarily blocked. This temporary block of your API key would cease at 11:15AM, at which point you could make 500 requests. At 11:25AM, you could then make another 500 requests.</p>
+					<h2 id="parser">Parser<a aria-hidden="true" class="anchor" href="#parser">#</a></h2>
+					<p>Our engine can only retrieve and parse <strong>publicly accessible pages</strong> and domains that use our custom integrations. Our crawler will respect <a href="https://en.wikipedia.org/wiki/Robots_exclusion_standard">robots.txt</a> specification and some public pages may still be blocked due to this. The crawler identifies itself as “linkpreview” in the HTTP “User-agent” header field. Unfortunately, we cannot guarantee the correct response data for every single URL but we’re constantly working to resolve or minimize these edge-cases.</p>
+					<p>Some of the reasons for the failed, blank, or incomplete API response are beyond our control:</p>
+					<ul>
+						<li>Private pages or pages that require authentication or login</li>
+						<li>Advanced bot-prevention installed at the targeted website</li>
+						<li>Captcha protection</li>
+						<li>Paywall protection</li>
+						<li>Temporary networking issues or downtimes</li>
+						<li>Webmasters not following best practices (no <a href="https://www.linkpreview.net/open-graph-meta-tags/">meta tags</a>, <a href="https://www.linkpreview.net/open-graph-meta-tags/">open graph</a>, or other content clues)
+						</li>
+						<li>Restrictions based on IP address or range of addresses (known cloud providers block)</li>
+						<li>Crawling exclusion by robots.txt rules (error 423)</li>
+					</ul>
+					<p>You can use our <a href="https://my.linkpreview.net/">Preview Tool</a> to try and report incorrect URL, or use <a href="https://cards-dev.twitter.com/validator">Similar Validator</a> to double-check if the URL can be parsed correctly by a different engine.</p>
+					<h2 id="image-processing-and-validation">Image Processing and Validation<a aria-hidden="true" class="anchor" href="#image-processing-and-validation">#</a></h2>
+					<p>Sometimes the website can provide og:image that is not accessible, served via the insecure HTTP protocol, invalid, or the URL is simply wrong. LinkPreview API can help and process images to validate them and extract additional data such as image width, image height, content-type, and size. Supported web image formats include <code>jpeg</code>, <code>png</code>, <code>gif</code>, <code>ico</code>, and <code>webp</code> images up to 5MB in size.</p>
+					<p>To validate the image, send your request with additional field <code>image_size</code> and check if the returned image size is greater than zero. You can also use image width and height parameters to calculate the image orientation (portrait/landscape) and use that to decide which of your layouts to render. You can use image size to discard images that are too small or too big for your specific layout.</p>
+					<p>It is highly recommended to set up a proxy and serve all the images through your own cached and secure environment without leaking users IP addresses. See <a href="https://github.com/interactive32/lpproxy">example</a>.</p>
+					<h2 id="same-origin-policy">Same-origin policy<a aria-hidden="true" class="anchor" href="#same-origin-policy">#</a></h2>
+					<p>Bypassing same-origin policy is handled automatically. You can use either CORS or JSONP requests to bypass same-origin policy in your front-end application. Since CORS allows you to use POST requests we recommend this method for all modern applications. JSONP is provided for compatibility reasons.</p>
+					<h2 id="caching">Caching<a aria-hidden="true" class="anchor" href="#caching">#</a></h2>
+					<p>The LinkPreview API will cache requested pages and it will return the cached response for a while. Any page updates will get noted on its next crawl and not immediately. The exact TTL depends on various parameters and it can take up to a day for this cache to expire.</p>
+					<h2 id="per-domain-limits">Per Domain Limits<a aria-hidden="true" class="anchor" href="#per-domain-limits">#</a></h2>
+					<p>Each request requires some resources to be allocated from the requested website. Too many connections to a single website imply a lot of burden for that server and can be flagged as a DoS attack. A Denial of Service(DoS) attack means that you are trying to make the server so busy that it’s incapable of dealing with other requests.</p>
+					<p>To avoid congestion and protect smaller websites, our service will rate-limit requests made to the same domain in short bursts.</p>
+					<p>You can make a maximum of 1 request each second to a single domain. If you go over this limit, the error 426 will be thrown.</p>
+					<p>However, this limit is not imposed on high-throughput domains such as Youtube, Amazon, Twitter, etc since they have a lot of resources to handle our requests.</p>
+					<p>If you for some reason need a higher limit, please contact us to request the increase.</p>
+					<p>In order to use the LinkPreview API without attribution, you can upgrade to one of our paid plans.</p>
+					<h2 id="examples">Examples<a aria-hidden="true" class="anchor" href="#examples">#</a></h2>
+					<p>Using the LinkPreview API requires some technical knowledge and programming skills. Please note that we do not provide support for your applications, plugins, cms, or web frameworks that make use of our API.</p>
+					<h3 id="codepen">Codepen<a aria-hidden="true" class="anchor" href="#codepen">#</a></h3>
+					<p><a href="https://codepen.io/alcalbg/pen/xxONEjW">Simple working example - Frontend with Bulma CSS</a></p>
+					<p><a href="https://codepen.io/alcalbg/full/XWambRd">LinkPreview HTML Generator - Email Template</a></p>
+					<h3 id="javascript">Javascript<a aria-hidden="true" class="anchor" href="#javascript">#</a></h3>
+					<h4 id="post-request-using-javascript--fetch-api">POST request using javascript / Fetch API<a aria-hidden="true" class="anchor" href="#post-request-using-javascript--fetch-api">#</a></h4>
+					<pre><code class="language-nof">var data = {key: '123456', q: 'https://www.google.com'}
+
+fetch('https://api.linkpreview.net', {
+  method: 'POST',
+  mode: 'cors',
+  body: JSON.stringify(data),
+}).then(res =&gt; {
+  if (res.status != 200) {
+    console.log(res.status)
+    throw new Error('something went wrong');
+  }
+  return res.json()
+}).then(response =&gt; {
+  console.log(response)
+}).catch(error =&gt; {
+  console.log(error)
+})
+</code></pre>
+					<h4 id="post-request-using-javascript--axios">POST request using javascript / axios<a aria-hidden="true" class="anchor" href="#post-request-using-javascript--axios">#</a></h4>
+					<pre><code class="language-nof">import axios from 'axios'
+
+axios.post(
+  'https://api.linkpreview.net',
+  {
+    q: 'https://www.google.com',
+    key: '123456'
+  }).then(resp =&gt; {
+    console.log(resp.data)
+  }).catch(err =&gt; {
+    // something went wrong
+    console.log(err.response.status)
+  })
+</code></pre>
+					<h3 id="php-python-ruby-curl">PHP, Python, Ruby, cURL<a aria-hidden="true" class="anchor" href="#php-python-ruby-curl">#</a></h3>
+					<h4 id="shell--curl">Shell / cURL<a aria-hidden="true" class="anchor" href="#shell--curl">#</a></h4>
+					<pre><code class="language-shell">curl --data "key=123456&amp;q=https://www.google.com" https://api.linkpreview.net
+</code></pre>
+					<h4 id="php-using-curl">PHP using curl<a aria-hidden="true" class="anchor" href="#php-using-curl">#</a></h4>
+					<pre><code class="language-nof">$target = urlencode("https://www.google.com");
+$key = "123456";
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "https://api.linkpreview.net?key={$key}&amp;q={$target}");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+$output = json_decode(curl_exec($ch));
+$status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+curl_close($ch);
+
+if ($status != 200) {
+    // something went wrong
+    print_r($status);
+    die;
+}
+
+print_r($output);
+</code></pre>
+					<h4 id="post-request-using-python">POST request using Python<a aria-hidden="true" class="anchor" href="#post-request-using-python">#</a></h4>
+					<pre><code class="language-nof">import requests
+
+api_url = 'https://api.linkpreview.net'
+api_key = '123456'
+target = 'https://www.google.com'
+response = requests.get(api_url, params={'key': api_key, 'q': target})
+print(response.json())
+</code></pre>
+					<h4 id="post-request-using-ruby">POST request using Ruby<a aria-hidden="true" class="anchor" href="#post-request-using-ruby">#</a></h4>
+					<pre><code class="language-nof">require('httparty')
+
+response = HTTParty.post('https://api.linkpreview.net?key=123456&amp;q=https://www.google.com')
+puts response.body
+
+</code></pre>
+					<h3 id="jquery">JQuery<a aria-hidden="true" class="anchor" href="#jquery">#</a></h3>
+					<h4 id="jquery-simple-cors-request">jQuery simple CORS request<a aria-hidden="true" class="anchor" href="#jquery-simple-cors-request">#</a></h4>
+					<pre><code class="language-nof">$.ajax({
+    url: "https://api.linkpreview.net?key=123456&amp;q=https://www.google.com",
+    success: function(result) {
+        console.log(result);
+    },
+    error: function(error) {
+        // something went wrong
+        console.log(error.status)
+    }
+});
+</code></pre>
+					<h4 id="jquery-preflight-cors-request">jQuery preflight CORS request<a aria-hidden="true" class="anchor" href="#jquery-preflight-cors-request">#</a></h4>
+					<pre><code class="language-nof">$.ajax({
+    url: "https://api.linkpreview.net?key=123456&amp;q=https://www.google.com",
+    type: "GET",
+    contentType: "application/json",
+    success: function(result){
+        console.log(result);
+    },
+    error: function(error) {
+        // something went wrong
+        console.log(error.status)
+    }
+});
+</code></pre>
+					<h4 id="jquery-cross-origin-request-using-jsonp">jQuery cross-origin request using JSONP<a aria-hidden="true" class="anchor" href="#jquery-cross-origin-request-using-jsonp">#</a></h4>
+					<pre><code class="language-nof">var target = "https://www.google.com";
+var key    = "123456";
+
+$.ajax({
+    url: "https://api.linkpreview.net",
+    dataType: "jsonp",
+    data: {q: target, key: key},
+    success: function (response) {
+        if (response.error) {
+            console.log(response.description);
+            return;
+        }
+        console.log(response);
+    },
+    error: function(error) {
+        // something went wrong
+        console.log(error.status)
+    }
+});
+</code></pre>
+					<h3 id="full-frontend-example">Full Frontend Example<a aria-hidden="true" class="anchor" href="#full-frontend-example">#</a></h3>
+					<p>Frontend code using Bulma CSS and Javascript with Fetch API:</p>
+					<pre><code class="language-nof">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+  &lt;section class="section"&gt;
+    &lt;div class="container"&gt;
+      &lt;div class="box" style="width:300px"&gt;
+        &lt;img id="myimage" src=""&gt;
+        &lt;div class="is-clipped"&gt;
+          &lt;div id="mytitle" class="has-text-weight-bold"&gt;&lt;/div&gt;
+          &lt;div id="mydescription" class="mt-2"&gt;&lt;/div&gt;
+          &lt;div id="myurl" class="mt-2 is-size-7"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;script&gt;
+    var data = {key: '123456', q: 'https://www.google.com'}
+
+    fetch('https://api.linkpreview.net', {
+      method: 'POST',
+      mode: 'cors',
+      body: JSON.stringify(data),
+    })
+      .then(res =&gt; res.json())
+      .then(response =&gt; {
+    document.getElementById("mytitle").innerHTML = response.title
+    document.getElementById("mydescription").innerHTML = response.description
+    document.getElementById("myimage").src = response.image
+    document.getElementById("myurl").innerHTML = response.url
+    })
+  &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code>
+</pre>
+				</main>
+			</div>&lt; /div&gt;
+		</div>
+		<footer class="footer text-muted">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 order-last order-lg-first">
+						<ul class="list-inline">
+							<li class="list-inline-item">
+								<a href="https://www.linkpreview.net">LinkPreview API</a> | Powered by <a href="https://interactive32.com">Interactive32</a> © 2008-2021
+							</li>
+						</ul>
+					</div>
+					<div class="col-lg-8 order-first order-lg-last text-lg-end">
+						<ul class="list-inline"></ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<script async src="https://a.interactive32.com/js/safetick.js" type="text/javascript">
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-V18KB9HMNK">
+		</script>
+		<script>
+		window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-V18KB9HMNK')
+		</script>
+		<script type="text/javascript">
+		var _tcfg=_tcfg||[];(function(){var d,b,a,c;_tcfg.push(["tags","linkpreview"]),d="https://a.interactive32.com/js/safetick.js",_tcfg.push(["account_id",8348834]),b=document,a=b.createElement("script"),c=b.getElementsByTagName("script")[0],a.type="text/javascript",a.async=!0,a.src=d,a.setAttribute("crossorigin","anonymous"),c.parentNode.insertBefore(a,c)})()
+		</script>
+		<script defer src="https://docs.linkpreview.net/js/highlight.min.f545b1b5f207064bf798e8f0397bb57a4582280b4afe2a3b81be962b1a6cf6be5492fd81968a0678bbf25d02bf488cb1ebcbc89550cb4129689ccd5c76f45947.js">
+		</script>
+		<script defer src="https://docs.linkpreview.net/main.min.505537b7832094f26c2d992c19e4be58edeff89a06181f4d11014a70272248d7cf88207c6280fac6fe716222c87fac808facea1864f858fce580ac640684b4b6.js">
+		</script>
+	</div>
+</body>
+</html>
