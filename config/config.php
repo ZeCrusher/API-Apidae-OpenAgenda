@@ -23,15 +23,16 @@
 	
 	$_SESSION['last_version'] ="V2022-06-30-TSK"; 
 
-	$keys = array( /* Les clés API permettent de lire et écrire des données sur OpenAgenda via l'API. */
+	$keys = array(
 	  "public"=>"3cadd4ccb8484442a87432cf0f94c93a", /* Pour OpenAgenda en lecture */
 	  "secret"=>"c071a53f48074d6c8c849fb1f0223f4e"  /* Pour OpenAgenda en mode écriture et autres*/
 	);
 
 	$agendaUid=65630513; /* <uid:65630513> */
-	// $territoireIds=array("5693912"); /* Conseil de territoire : Pays de Martigues */ 
+	$territoireIds=array("5693912"); /* Conseil de territoire : Pays de Martigues */ 
 	// $selectionIds=array("133484");
-	$selectionIds=array("130723","133484","138205");
+	$selectionIds=array("130723"); 
+
 	
 	$data_openagenda =array(); /* tableau qui va temporairement sauvegarder les données lu sur OpenAgenda 	*/
 	$data_apidae	 =array(); /* tableau qui va également sauvegarder les données d'Apidae 				*/
@@ -39,7 +40,7 @@
 
 	$apiDomain = "https://api.apidae-tourisme.com/api/";
 	
-	$apiKey="V0env9EH"; /* QTfpNkyX <- OK | PhrnH4Dd */
+	$apiKey="monapikey"; /* QTfpNkyX <- OK | PhrnH4Dd */
 	$projetId="6775"; /*  	6556 Martigues - OpenAgenda */ 
 	// $nbResult = '200';
 	// $dureemax = "50";
@@ -50,7 +51,6 @@
 	$requete['selectionIds'] = $selectionIds;
 	$requete['identifiants'] = $identifiants;
 	$requete['apiKey'] = $apiKey;
-	$requete['count']= 50;
 	$requete['projetId'] = $projetId;
 	// $requete['dateDebut'] = date("Y-m-d");   // $requete['dateDebut'] = "2022-09-10";
 
