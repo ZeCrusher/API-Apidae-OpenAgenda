@@ -178,9 +178,11 @@
 		<input class="btn btn-sm" type="submit" name="submit" id="Recharger" value="Recharger">
 	</div>';
 	
-	if ($fichier_config_maj=="OK") echo '<br><br><br> Votre fichier a été enregistrer [<a href="config.php.txt" target="_blanck">config.php.txt</a>]';
-						
-echo '</form>';
+	if ($fichier_config_maj=="OK") {
+		echo '<br><br><br> Votre fichier a été enregistrer [<a href="config.php.txt" target="_blanck">config.php.txt</a>]';
+	}
+	
+	echo '</form>';
 
 						
 	?>
