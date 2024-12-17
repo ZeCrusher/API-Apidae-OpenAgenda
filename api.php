@@ -6,7 +6,8 @@
 // *****************************************************************************
 // Copyright (c) 2022 - Serge Tsakiropoulos - Office de Tourisme de Martigues
 
-// ***** V1.0  		- 30/06/2022 
+// ***** V1.1  		- 2024-12-17
+// ***** V1.0  		- 2022/06/30 
 // ***** 		 	- Version NON compatible donc re-écriture en partant de zéro ! 
 // ***** V0.1    	- 30/06/2022 - Premiere version
 // ***** V0.0      	- Ecriture du code - sur les cendre de la version Digne-les-bains car elle était pour la V1 de l'OpenAgenda

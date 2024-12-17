@@ -1,7 +1,18 @@
 <?php 				
-			
-	include "config/config.php";
-	include "fonctions/fonctions_API.php";
+
+	if (!file_exists("config/config.php")) {
+		header ('Location: 404.html');	exit();
+	}
+	else {
+		include "config/config.php";
+	}
+	
+	if (!file_exists("fonctions/fonctions_API.php")) 	{
+		header ('Location: 404.html');	exit();
+	} 
+	else { 	
+		include "fonctions/fonctions_API.php";
+	}
 			
 	$Openagenda_event_adresse = array(
 		'name' 			=> 	"TEST - Office de Tourisme de Martigues", /* Si vous voulez utiliser l'api a des fin de test, écrivez 'test' dans vos titres et placez une valeur booléenne vrai sous une clé 'test' dans vos requêtes. */
@@ -15,7 +26,6 @@
 		'longitude'		=> 	"5.047411988755189",
 		'test'			=> 	false
 	);
-			
 
 /* Etape 1 - Demande de accessToken - Un token d'accès valide est nécessaire aux opérations d'écriture*/
 	$accessToken = access_token_get($keys['secret']); /* $keys['secret'] => voir dans le fichier config.php ou il y a deux clefs, une public et une privé */
@@ -37,7 +47,7 @@
 	$event_heure_ouverture[] = array('begin' => $begin, 'end' => $end);
 						
 	$Openagenda_event_data = array(
-		'title' => array('fr' => "Test - Martigues 2022-9h59" ),
+		'title' => array('fr' => "Test - Martigues 2024-12-17" ),
 		'state' => 0, /* 0: événement non publié, à contrôler - 1: événement non publié, controlé - 2: événement publié (valeur par défaut) */
 		'image' 			=> 	array('url' => "https://rehost.diberie.com/Picture/Get/f/80551"),
 		'imageCredits'		=>	"Crédit photo Office de Tourisme de Martigues ;)",

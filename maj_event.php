@@ -39,6 +39,7 @@
 	echo "Location : ".$received_content_id_adresse."<br>";
 
 	$result_loc=json_decode($received_content_id_adresse,false);
+	
 	if ($result_loc->error!="") { /* En cas d'erreur, arrêt du script avec die !  */
 		die("Il existe une erreur dans la création de la Localisation.  ['".$result_loc->error."']");
 	}
@@ -46,6 +47,7 @@
 	
 	$begin 	= date( 'Y-m-d\TH:i:sO');
     $end 	= date( 'Y-m-d\TH:i:sO');
+	
 	$event_heure_ouverture[] = array('begin' => $begin, 'end' => $end);
 						
 	$Openagenda_event_data = array(
@@ -73,7 +75,7 @@
 		
 	$received_content_id_event = update_event($accessToken,$Openagenda_event_data,$agendaUid,"13899272");
 
-	echo "HAAA >".$received_content_id_event;
+	echo "Événement d'identification de contenu reçu >".$received_content_id_event;
 	
 ?>					
 
